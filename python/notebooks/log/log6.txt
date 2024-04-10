@@ -1,0 +1,2107 @@
+|   iter    |  target   | activa... | batch_... | learni... | num_la... |
+-------------------------------------------------------------------------
+
+Iteration 1, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=100, learning_rate=0.00095
+Epoch 1/25
+Loss: 2.6213, Training Accuracy: 21.45%, Test Accuracy: 21.52%
+Epoch 2/25
+Loss: 2.0542, Training Accuracy: 32.73%, Test Accuracy: 33.45%
+Epoch 3/25
+Loss: 1.7434, Training Accuracy: 45.66%, Test Accuracy: 46.55%
+Epoch 4/25
+Loss: 1.5299, Training Accuracy: 50.02%, Test Accuracy: 50.77%
+Epoch 5/25
+Loss: 1.4401, Training Accuracy: 52.75%, Test Accuracy: 53.04%
+Epoch 6/25
+Loss: 1.3876, Training Accuracy: 53.20%, Test Accuracy: 54.24%
+Epoch 7/25
+Loss: 1.3474, Training Accuracy: 54.93%, Test Accuracy: 55.67%
+Epoch 8/25
+Loss: 1.3147, Training Accuracy: 54.79%, Test Accuracy: 56.81%
+Epoch 9/25
+Loss: 1.2869, Training Accuracy: 56.90%, Test Accuracy: 57.49%
+Epoch 10/25
+Loss: 1.2631, Training Accuracy: 57.72%, Test Accuracy: 58.42%
+Epoch 11/25
+Loss: 1.2316, Training Accuracy: 58.20%, Test Accuracy: 59.02%
+Epoch 12/25
+Loss: 1.2146, Training Accuracy: 59.19%, Test Accuracy: 60.84%
+Epoch 13/25
+Loss: 1.2040, Training Accuracy: 58.94%, Test Accuracy: 59.60%
+Epoch 14/25
+Loss: 1.1876, Training Accuracy: 60.20%, Test Accuracy: 61.23%
+Epoch 15/25
+Loss: 1.1762, Training Accuracy: 60.70%, Test Accuracy: 62.08%
+Epoch 16/25
+Loss: 1.1613, Training Accuracy: 60.18%, Test Accuracy: 60.60%
+Epoch 17/25
+Loss: 1.1498, Training Accuracy: 60.62%, Test Accuracy: 61.80%
+Epoch 18/25
+Loss: 1.1430, Training Accuracy: 61.80%, Test Accuracy: 61.87%
+Epoch 19/25
+Loss: 1.1345, Training Accuracy: 62.02%, Test Accuracy: 62.66%
+Epoch 20/25
+Loss: 1.1374, Training Accuracy: 60.78%, Test Accuracy: 61.87%
+Epoch 21/25
+Loss: 1.1205, Training Accuracy: 61.38%, Test Accuracy: 62.15%
+Epoch 22/25
+Loss: 1.1145, Training Accuracy: 62.10%, Test Accuracy: 63.29%
+Epoch 23/25
+Loss: 1.1147, Training Accuracy: 60.98%, Test Accuracy: 61.82%
+Epoch 24/25
+Loss: 1.1051, Training Accuracy: 62.06%, Test Accuracy: 63.92%
+Epoch 25/25
+Loss: 1.1048, Training Accuracy: 61.97%, Test Accuracy: 62.61%
+Finished Training
+| 1         | -1.105    | 0.5488    | 100.7     | 0.0009521 | 7.545     |
+
+Iteration 2, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=94, learning_rate=0.00083
+Epoch 1/25
+Loss: 2.4510, Training Accuracy: 26.49%, Test Accuracy: 26.96%
+Epoch 2/25
+Loss: 1.9301, Training Accuracy: 43.19%, Test Accuracy: 44.45%
+Epoch 3/25
+Loss: 1.5872, Training Accuracy: 49.76%, Test Accuracy: 50.85%
+Epoch 4/25
+Loss: 1.4598, Training Accuracy: 52.05%, Test Accuracy: 53.48%
+Epoch 5/25
+Loss: 1.3876, Training Accuracy: 54.44%, Test Accuracy: 55.25%
+Epoch 6/25
+Loss: 1.3267, Training Accuracy: 56.21%, Test Accuracy: 56.80%
+Epoch 7/25
+Loss: 1.2909, Training Accuracy: 56.76%, Test Accuracy: 57.38%
+Epoch 8/25
+Loss: 1.2601, Training Accuracy: 57.70%, Test Accuracy: 58.61%
+Epoch 9/25
+Loss: 1.2319, Training Accuracy: 58.66%, Test Accuracy: 60.07%
+Epoch 10/25
+Loss: 1.2222, Training Accuracy: 59.44%, Test Accuracy: 60.63%
+Epoch 11/25
+Loss: 1.2008, Training Accuracy: 59.40%, Test Accuracy: 60.35%
+Epoch 12/25
+Loss: 1.1853, Training Accuracy: 59.94%, Test Accuracy: 61.77%
+Epoch 13/25
+Loss: 1.1820, Training Accuracy: 60.85%, Test Accuracy: 61.10%
+Epoch 14/25
+Loss: 1.1616, Training Accuracy: 59.09%, Test Accuracy: 59.73%
+Epoch 15/25
+Loss: 1.1501, Training Accuracy: 61.09%, Test Accuracy: 62.08%
+Epoch 16/25
+Loss: 1.1344, Training Accuracy: 61.33%, Test Accuracy: 61.15%
+Epoch 17/25
+Loss: 1.1314, Training Accuracy: 61.97%, Test Accuracy: 63.41%
+Epoch 18/25
+Loss: 1.1278, Training Accuracy: 61.82%, Test Accuracy: 62.84%
+Epoch 19/25
+Loss: 1.1212, Training Accuracy: 62.16%, Test Accuracy: 62.41%
+Epoch 20/25
+Loss: 1.1097, Training Accuracy: 62.20%, Test Accuracy: 63.01%
+Epoch 21/25
+Loss: 1.1041, Training Accuracy: 62.56%, Test Accuracy: 64.12%
+Epoch 22/25
+Loss: 1.1045, Training Accuracy: 62.30%, Test Accuracy: 63.03%
+Epoch 23/25
+Loss: 1.0999, Training Accuracy: 62.83%, Test Accuracy: 63.88%
+Epoch 24/25
+Loss: 1.0893, Training Accuracy: 63.53%, Test Accuracy: 64.87%
+Epoch 25/25
+Loss: 1.0899, Training Accuracy: 63.37%, Test Accuracy: 64.17%
+Finished Training
+| 2         | -1.09     | 0.4237    | 94.01     | 0.0008282 | 7.892     |
+
+Iteration 3, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=68, learning_rate=0.00109
+Epoch 1/25
+Loss: 2.4842, Training Accuracy: 27.94%, Test Accuracy: 28.05%
+Epoch 2/25
+Loss: 1.8970, Training Accuracy: 42.22%, Test Accuracy: 43.09%
+Epoch 3/25
+Loss: 1.5778, Training Accuracy: 49.35%, Test Accuracy: 49.46%
+Epoch 4/25
+Loss: 1.4570, Training Accuracy: 52.28%, Test Accuracy: 53.18%
+Epoch 5/25
+Loss: 1.3874, Training Accuracy: 54.17%, Test Accuracy: 55.14%
+Epoch 6/25
+Loss: 1.3375, Training Accuracy: 54.06%, Test Accuracy: 54.33%
+Epoch 7/25
+Loss: 1.2990, Training Accuracy: 55.70%, Test Accuracy: 56.07%
+Epoch 8/25
+Loss: 1.2724, Training Accuracy: 56.89%, Test Accuracy: 58.47%
+Epoch 9/25
+Loss: 1.2414, Training Accuracy: 57.61%, Test Accuracy: 58.37%
+Epoch 10/25
+Loss: 1.2237, Training Accuracy: 58.12%, Test Accuracy: 59.37%
+Epoch 11/25
+Loss: 1.2138, Training Accuracy: 58.95%, Test Accuracy: 59.94%
+Epoch 12/25
+Loss: 1.1945, Training Accuracy: 59.55%, Test Accuracy: 60.24%
+Epoch 13/25
+Loss: 1.1804, Training Accuracy: 59.31%, Test Accuracy: 60.43%
+Epoch 14/25
+Loss: 1.1694, Training Accuracy: 60.99%, Test Accuracy: 61.38%
+Epoch 15/25
+Loss: 1.1606, Training Accuracy: 60.78%, Test Accuracy: 62.39%
+Epoch 16/25
+Loss: 1.1525, Training Accuracy: 61.25%, Test Accuracy: 62.54%
+Epoch 17/25
+Loss: 1.1388, Training Accuracy: 61.63%, Test Accuracy: 62.51%
+Epoch 18/25
+Loss: 1.1314, Training Accuracy: 61.39%, Test Accuracy: 61.68%
+Epoch 19/25
+Loss: 1.1219, Training Accuracy: 61.59%, Test Accuracy: 62.26%
+Epoch 20/25
+Loss: 1.1123, Training Accuracy: 61.56%, Test Accuracy: 62.21%
+Epoch 21/25
+Loss: 1.1089, Training Accuracy: 62.67%, Test Accuracy: 63.16%
+Epoch 22/25
+Loss: 1.1020, Training Accuracy: 62.98%, Test Accuracy: 64.59%
+Epoch 23/25
+Loss: 1.0948, Training Accuracy: 62.14%, Test Accuracy: 63.34%
+Epoch 24/25
+Loss: 1.0934, Training Accuracy: 62.27%, Test Accuracy: 62.75%
+Epoch 25/25
+Loss: 1.0844, Training Accuracy: 62.82%, Test Accuracy: 64.14%
+Finished Training
+| 3         | -1.084    | 0.9637    | 68.81     | 0.001094  | 7.529     |
+
+Iteration 4, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=120, learning_rate=0.00055
+Epoch 1/25
+Loss: 2.6146, Training Accuracy: 19.13%, Test Accuracy: 19.10%
+Epoch 2/25
+Loss: 2.1199, Training Accuracy: 28.02%, Test Accuracy: 27.90%
+Epoch 3/25
+Loss: 1.9105, Training Accuracy: 37.65%, Test Accuracy: 38.21%
+Epoch 4/25
+Loss: 1.7250, Training Accuracy: 44.37%, Test Accuracy: 45.25%
+Epoch 5/25
+Loss: 1.5505, Training Accuracy: 47.63%, Test Accuracy: 48.65%
+Epoch 6/25
+Loss: 1.4538, Training Accuracy: 52.70%, Test Accuracy: 53.24%
+Epoch 7/25
+Loss: 1.3902, Training Accuracy: 54.06%, Test Accuracy: 54.67%
+Epoch 8/25
+Loss: 1.3403, Training Accuracy: 53.88%, Test Accuracy: 54.86%
+Epoch 9/25
+Loss: 1.3037, Training Accuracy: 56.51%, Test Accuracy: 57.54%
+Epoch 10/25
+Loss: 1.2608, Training Accuracy: 57.36%, Test Accuracy: 58.39%
+Epoch 11/25
+Loss: 1.2415, Training Accuracy: 58.11%, Test Accuracy: 59.32%
+Epoch 12/25
+Loss: 1.2133, Training Accuracy: 59.19%, Test Accuracy: 59.69%
+Epoch 13/25
+Loss: 1.1911, Training Accuracy: 58.71%, Test Accuracy: 59.35%
+Epoch 14/25
+Loss: 1.1813, Training Accuracy: 60.25%, Test Accuracy: 61.57%
+Epoch 15/25
+Loss: 1.1611, Training Accuracy: 60.86%, Test Accuracy: 61.37%
+Epoch 16/25
+Loss: 1.1515, Training Accuracy: 61.13%, Test Accuracy: 62.42%
+Epoch 17/25
+Loss: 1.1456, Training Accuracy: 61.33%, Test Accuracy: 61.63%
+Epoch 18/25
+Loss: 1.1356, Training Accuracy: 61.77%, Test Accuracy: 62.88%
+Epoch 19/25
+Loss: 1.1213, Training Accuracy: 62.10%, Test Accuracy: 62.26%
+Epoch 20/25
+Loss: 1.1193, Training Accuracy: 62.45%, Test Accuracy: 63.44%
+Epoch 21/25
+Loss: 1.1121, Training Accuracy: 61.62%, Test Accuracy: 61.95%
+Epoch 22/25
+Loss: 1.1040, Training Accuracy: 62.46%, Test Accuracy: 62.73%
+Epoch 23/25
+Loss: 1.0956, Training Accuracy: 63.22%, Test Accuracy: 64.18%
+Epoch 24/25
+Loss: 1.0955, Training Accuracy: 61.95%, Test Accuracy: 63.58%
+Epoch 25/25
+Loss: 1.0909, Training Accuracy: 63.03%, Test Accuracy: 63.56%
+Finished Training
+| 4         | -1.091    | 0.568     | 120.9     | 0.0005533 | 7.087     |
+
+Iteration 5, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=109, learning_rate=0.001
+Epoch 1/25
+Loss: 2.4616, Training Accuracy: 29.74%, Test Accuracy: 29.69%
+Epoch 2/25
+Loss: 1.7708, Training Accuracy: 46.42%, Test Accuracy: 46.62%
+Epoch 3/25
+Loss: 1.4891, Training Accuracy: 52.00%, Test Accuracy: 53.62%
+Epoch 4/25
+Loss: 1.3808, Training Accuracy: 53.74%, Test Accuracy: 55.07%
+Epoch 5/25
+Loss: 1.3296, Training Accuracy: 55.11%, Test Accuracy: 56.71%
+Epoch 6/25
+Loss: 1.2825, Training Accuracy: 57.22%, Test Accuracy: 58.99%
+Epoch 7/25
+Loss: 1.2644, Training Accuracy: 57.13%, Test Accuracy: 58.94%
+Epoch 8/25
+Loss: 1.2413, Training Accuracy: 57.52%, Test Accuracy: 59.20%
+Epoch 9/25
+Loss: 1.2156, Training Accuracy: 59.18%, Test Accuracy: 59.72%
+Epoch 10/25
+Loss: 1.1960, Training Accuracy: 59.20%, Test Accuracy: 59.69%
+Epoch 11/25
+Loss: 1.1908, Training Accuracy: 60.07%, Test Accuracy: 60.65%
+Epoch 12/25
+Loss: 1.1671, Training Accuracy: 59.57%, Test Accuracy: 60.75%
+Epoch 13/25
+Loss: 1.1634, Training Accuracy: 61.02%, Test Accuracy: 61.93%
+Epoch 14/25
+Loss: 1.1459, Training Accuracy: 60.17%, Test Accuracy: 61.34%
+Epoch 15/25
+Loss: 1.1389, Training Accuracy: 60.72%, Test Accuracy: 61.36%
+Epoch 16/25
+Loss: 1.1382, Training Accuracy: 61.33%, Test Accuracy: 62.25%
+Epoch 17/25
+Loss: 1.1280, Training Accuracy: 61.49%, Test Accuracy: 61.43%
+Epoch 18/25
+Loss: 1.1252, Training Accuracy: 61.63%, Test Accuracy: 62.69%
+Epoch 19/25
+Loss: 1.1137, Training Accuracy: 61.58%, Test Accuracy: 62.69%
+Epoch 20/25
+Loss: 1.1133, Training Accuracy: 61.94%, Test Accuracy: 63.57%
+Epoch 21/25
+Loss: 1.1047, Training Accuracy: 61.55%, Test Accuracy: 63.46%
+Epoch 22/25
+Loss: 1.1021, Training Accuracy: 62.48%, Test Accuracy: 63.14%
+Epoch 23/25
+Loss: 1.0999, Training Accuracy: 62.77%, Test Accuracy: 63.72%
+Epoch 24/25
+Loss: 1.0895, Training Accuracy: 62.02%, Test Accuracy: 63.80%
+Epoch 25/25
+Loss: 1.0917, Training Accuracy: 62.69%, Test Accuracy: 63.23%
+Finished Training
+| 5         | -1.092    | 0.5963    | 109.1     | 0.001001  | 7.512     |
+
+Iteration 6, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=44, learning_rate=0.00098
+Epoch 1/25
+Loss: 2.6333, Training Accuracy: 23.69%, Test Accuracy: 23.82%
+Epoch 2/25
+Loss: 1.9862, Training Accuracy: 37.91%, Test Accuracy: 38.04%
+Epoch 3/25
+Loss: 1.7146, Training Accuracy: 45.22%, Test Accuracy: 45.83%
+Epoch 4/25
+Loss: 1.5650, Training Accuracy: 48.91%, Test Accuracy: 49.75%
+Epoch 5/25
+Loss: 1.4672, Training Accuracy: 51.46%, Test Accuracy: 52.36%
+Epoch 6/25
+Loss: 1.4053, Training Accuracy: 53.45%, Test Accuracy: 53.91%
+Epoch 7/25
+Loss: 1.3485, Training Accuracy: 55.03%, Test Accuracy: 57.10%
+Epoch 8/25
+Loss: 1.3085, Training Accuracy: 56.30%, Test Accuracy: 57.45%
+Epoch 9/25
+Loss: 1.2792, Training Accuracy: 55.97%, Test Accuracy: 56.74%
+Epoch 10/25
+Loss: 1.2402, Training Accuracy: 57.65%, Test Accuracy: 58.88%
+Epoch 11/25
+Loss: 1.2146, Training Accuracy: 59.06%, Test Accuracy: 59.83%
+Epoch 12/25
+Loss: 1.1961, Training Accuracy: 57.93%, Test Accuracy: 59.48%
+Epoch 13/25
+Loss: 1.1852, Training Accuracy: 59.95%, Test Accuracy: 61.77%
+Epoch 14/25
+Loss: 1.1695, Training Accuracy: 60.36%, Test Accuracy: 61.11%
+Epoch 15/25
+Loss: 1.1482, Training Accuracy: 61.01%, Test Accuracy: 61.82%
+Epoch 16/25
+Loss: 1.1388, Training Accuracy: 60.55%, Test Accuracy: 61.51%
+Epoch 17/25
+Loss: 1.1305, Training Accuracy: 60.54%, Test Accuracy: 61.34%
+Epoch 18/25
+Loss: 1.1275, Training Accuracy: 61.47%, Test Accuracy: 63.01%
+Epoch 19/25
+Loss: 1.1212, Training Accuracy: 60.93%, Test Accuracy: 62.26%
+Epoch 20/25
+Loss: 1.0998, Training Accuracy: 62.25%, Test Accuracy: 63.28%
+Epoch 21/25
+Loss: 1.1130, Training Accuracy: 62.63%, Test Accuracy: 63.97%
+Epoch 22/25
+Loss: 1.0973, Training Accuracy: 61.76%, Test Accuracy: 62.79%
+Epoch 23/25
+Loss: 1.0887, Training Accuracy: 62.48%, Test Accuracy: 63.94%
+Epoch 24/25
+Loss: 1.0912, Training Accuracy: 62.61%, Test Accuracy: 63.37%
+Epoch 25/25
+Loss: 1.0850, Training Accuracy: 63.09%, Test Accuracy: 63.62%
+Finished Training
+| 6         | -1.085    | 0.4468    | 44.55     | 0.0009795 | 7.176     |
+
+Iteration 7, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=114, learning_rate=0.00113
+Epoch 1/25
+Loss: 2.4482, Training Accuracy: 23.60%, Test Accuracy: 24.35%
+Epoch 2/25
+Loss: 1.9366, Training Accuracy: 39.00%, Test Accuracy: 39.46%
+Epoch 3/25
+Loss: 1.6120, Training Accuracy: 49.87%, Test Accuracy: 50.59%
+Epoch 4/25
+Loss: 1.4300, Training Accuracy: 52.59%, Test Accuracy: 52.11%
+Epoch 5/25
+Loss: 1.3619, Training Accuracy: 55.14%, Test Accuracy: 55.53%
+Epoch 6/25
+Loss: 1.3126, Training Accuracy: 56.17%, Test Accuracy: 56.30%
+Epoch 7/25
+Loss: 1.2746, Training Accuracy: 58.06%, Test Accuracy: 58.68%
+Epoch 8/25
+Loss: 1.2449, Training Accuracy: 57.68%, Test Accuracy: 59.27%
+Epoch 9/25
+Loss: 1.2189, Training Accuracy: 58.95%, Test Accuracy: 59.67%
+Epoch 10/25
+Loss: 1.1922, Training Accuracy: 59.22%, Test Accuracy: 59.77%
+Epoch 11/25
+Loss: 1.1754, Training Accuracy: 60.59%, Test Accuracy: 60.75%
+Epoch 12/25
+Loss: 1.1606, Training Accuracy: 60.57%, Test Accuracy: 61.17%
+Epoch 13/25
+Loss: 1.1536, Training Accuracy: 61.18%, Test Accuracy: 62.29%
+Epoch 14/25
+Loss: 1.1339, Training Accuracy: 60.81%, Test Accuracy: 61.30%
+Epoch 15/25
+Loss: 1.1334, Training Accuracy: 62.14%, Test Accuracy: 63.10%
+Epoch 16/25
+Loss: 1.1247, Training Accuracy: 61.51%, Test Accuracy: 62.68%
+Epoch 17/25
+Loss: 1.1148, Training Accuracy: 62.97%, Test Accuracy: 64.02%
+Epoch 18/25
+Loss: 1.1115, Training Accuracy: 61.76%, Test Accuracy: 62.38%
+Epoch 19/25
+Loss: 1.1058, Training Accuracy: 62.79%, Test Accuracy: 63.43%
+Epoch 20/25
+Loss: 1.0960, Training Accuracy: 62.52%, Test Accuracy: 63.04%
+Epoch 21/25
+Loss: 1.0904, Training Accuracy: 62.86%, Test Accuracy: 63.93%
+Epoch 22/25
+Loss: 1.0799, Training Accuracy: 62.85%, Test Accuracy: 63.74%
+Epoch 23/25
+Loss: 1.0802, Training Accuracy: 63.63%, Test Accuracy: 65.20%
+Epoch 24/25
+Loss: 1.0752, Training Accuracy: 63.28%, Test Accuracy: 63.91%
+Epoch 25/25
+Loss: 1.0755, Training Accuracy: 63.42%, Test Accuracy: 63.55%
+Finished Training
+| 7         | -1.076    | 0.6148    | 114.2     | 0.001127  | 7.62      |
+
+Iteration 8, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=59, learning_rate=0.001
+Epoch 1/25
+Loss: 2.4689, Training Accuracy: 16.77%, Test Accuracy: 17.12%
+Epoch 2/25
+Loss: 1.9646, Training Accuracy: 38.49%, Test Accuracy: 37.90%
+Epoch 3/25
+Loss: 1.6504, Training Accuracy: 49.82%, Test Accuracy: 50.84%
+Epoch 4/25
+Loss: 1.4399, Training Accuracy: 52.61%, Test Accuracy: 53.94%
+Epoch 5/25
+Loss: 1.3513, Training Accuracy: 55.80%, Test Accuracy: 56.54%
+Epoch 6/25
+Loss: 1.2967, Training Accuracy: 56.03%, Test Accuracy: 57.32%
+Epoch 7/25
+Loss: 1.2529, Training Accuracy: 57.48%, Test Accuracy: 59.18%
+Epoch 8/25
+Loss: 1.2300, Training Accuracy: 58.68%, Test Accuracy: 59.55%
+Epoch 9/25
+Loss: 1.2041, Training Accuracy: 59.70%, Test Accuracy: 60.25%
+Epoch 10/25
+Loss: 1.1921, Training Accuracy: 59.76%, Test Accuracy: 60.62%
+Epoch 11/25
+Loss: 1.1613, Training Accuracy: 59.46%, Test Accuracy: 60.48%
+Epoch 12/25
+Loss: 1.1470, Training Accuracy: 60.99%, Test Accuracy: 61.98%
+Epoch 13/25
+Loss: 1.1371, Training Accuracy: 61.50%, Test Accuracy: 61.92%
+Epoch 14/25
+Loss: 1.1227, Training Accuracy: 61.74%, Test Accuracy: 62.37%
+Epoch 15/25
+Loss: 1.1201, Training Accuracy: 62.52%, Test Accuracy: 63.02%
+Epoch 16/25
+Loss: 1.1135, Training Accuracy: 60.78%, Test Accuracy: 62.03%
+Epoch 17/25
+Loss: 1.1056, Training Accuracy: 62.23%, Test Accuracy: 63.04%
+Epoch 18/25
+Loss: 1.0983, Training Accuracy: 62.30%, Test Accuracy: 63.68%
+Epoch 19/25
+Loss: 1.0868, Training Accuracy: 62.99%, Test Accuracy: 64.27%
+Epoch 20/25
+Loss: 1.0900, Training Accuracy: 63.61%, Test Accuracy: 64.83%
+Epoch 21/25
+Loss: 1.0778, Training Accuracy: 63.18%, Test Accuracy: 64.41%
+Epoch 22/25
+Loss: 1.0772, Training Accuracy: 62.87%, Test Accuracy: 64.53%
+Epoch 23/25
+Loss: 1.0717, Training Accuracy: 63.66%, Test Accuracy: 64.42%
+Epoch 24/25
+Loss: 1.0718, Training Accuracy: 63.52%, Test Accuracy: 64.07%
+Epoch 25/25
+Loss: 1.0630, Training Accuracy: 63.37%, Test Accuracy: 64.68%
+Finished Training
+| 8         | -1.063    | 0.9124    | 59.21     | 0.001     | 7.086     |
+
+Iteration 9, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=103, learning_rate=0.00076
+Epoch 1/25
+Loss: 2.4476, Training Accuracy: 24.03%, Test Accuracy: 24.60%
+Epoch 2/25
+Loss: 1.9713, Training Accuracy: 36.82%, Test Accuracy: 37.50%
+Epoch 3/25
+Loss: 1.6715, Training Accuracy: 47.94%, Test Accuracy: 48.88%
+Epoch 4/25
+Loss: 1.4611, Training Accuracy: 51.28%, Test Accuracy: 52.91%
+Epoch 5/25
+Loss: 1.3679, Training Accuracy: 54.23%, Test Accuracy: 54.49%
+Epoch 6/25
+Loss: 1.3203, Training Accuracy: 55.75%, Test Accuracy: 56.54%
+Epoch 7/25
+Loss: 1.2787, Training Accuracy: 56.76%, Test Accuracy: 57.77%
+Epoch 8/25
+Loss: 1.2549, Training Accuracy: 58.50%, Test Accuracy: 58.42%
+Epoch 9/25
+Loss: 1.2269, Training Accuracy: 58.23%, Test Accuracy: 59.12%
+Epoch 10/25
+Loss: 1.2013, Training Accuracy: 59.40%, Test Accuracy: 60.41%
+Epoch 11/25
+Loss: 1.1801, Training Accuracy: 59.88%, Test Accuracy: 60.96%
+Epoch 12/25
+Loss: 1.1729, Training Accuracy: 60.24%, Test Accuracy: 60.71%
+Epoch 13/25
+Loss: 1.1625, Training Accuracy: 60.23%, Test Accuracy: 60.71%
+Epoch 14/25
+Loss: 1.1472, Training Accuracy: 61.45%, Test Accuracy: 62.20%
+Epoch 15/25
+Loss: 1.1404, Training Accuracy: 61.22%, Test Accuracy: 61.99%
+Epoch 16/25
+Loss: 1.1251, Training Accuracy: 61.93%, Test Accuracy: 62.95%
+Epoch 17/25
+Loss: 1.1240, Training Accuracy: 61.88%, Test Accuracy: 62.79%
+Epoch 18/25
+Loss: 1.1128, Training Accuracy: 62.36%, Test Accuracy: 62.79%
+Epoch 19/25
+Loss: 1.1107, Training Accuracy: 62.85%, Test Accuracy: 64.47%
+Epoch 20/25
+Loss: 1.0952, Training Accuracy: 62.04%, Test Accuracy: 62.18%
+Epoch 21/25
+Loss: 1.0992, Training Accuracy: 62.39%, Test Accuracy: 63.15%
+Epoch 22/25
+Loss: 1.0909, Training Accuracy: 62.33%, Test Accuracy: 63.44%
+Epoch 23/25
+Loss: 1.0819, Training Accuracy: 62.48%, Test Accuracy: 63.83%
+Epoch 24/25
+Loss: 1.0835, Training Accuracy: 63.63%, Test Accuracy: 64.29%
+Epoch 25/25
+Loss: 1.0719, Training Accuracy: 63.63%, Test Accuracy: 64.35%
+Finished Training
+| 9         | -1.072    | 0.846     | 103.2     | 0.0007583 | 7.571     |
+
+Iteration 10, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=59, learning_rate=0.00055
+Epoch 1/25
+Loss: 2.5927, Training Accuracy: 20.48%, Test Accuracy: 21.06%
+Epoch 2/25
+Loss: 2.0934, Training Accuracy: 27.44%, Test Accuracy: 27.43%
+Epoch 3/25
+Loss: 1.9466, Training Accuracy: 30.61%, Test Accuracy: 31.47%
+Epoch 4/25
+Loss: 1.8291, Training Accuracy: 39.56%, Test Accuracy: 40.42%
+Epoch 5/25
+Loss: 1.6136, Training Accuracy: 49.66%, Test Accuracy: 50.66%
+Epoch 6/25
+Loss: 1.4524, Training Accuracy: 52.37%, Test Accuracy: 52.86%
+Epoch 7/25
+Loss: 1.3871, Training Accuracy: 53.36%, Test Accuracy: 54.67%
+Epoch 8/25
+Loss: 1.3408, Training Accuracy: 53.95%, Test Accuracy: 54.55%
+Epoch 9/25
+Loss: 1.3092, Training Accuracy: 54.61%, Test Accuracy: 55.02%
+Epoch 10/25
+Loss: 1.2831, Training Accuracy: 56.40%, Test Accuracy: 57.61%
+Epoch 11/25
+Loss: 1.2521, Training Accuracy: 56.92%, Test Accuracy: 57.89%
+Epoch 12/25
+Loss: 1.2351, Training Accuracy: 59.07%, Test Accuracy: 59.47%
+Epoch 13/25
+Loss: 1.2164, Training Accuracy: 58.92%, Test Accuracy: 59.97%
+Epoch 14/25
+Loss: 1.2023, Training Accuracy: 59.49%, Test Accuracy: 60.70%
+Epoch 15/25
+Loss: 1.1899, Training Accuracy: 58.98%, Test Accuracy: 60.84%
+Epoch 16/25
+Loss: 1.1785, Training Accuracy: 60.13%, Test Accuracy: 61.27%
+Epoch 17/25
+Loss: 1.1630, Training Accuracy: 59.21%, Test Accuracy: 59.96%
+Epoch 18/25
+Loss: 1.1599, Training Accuracy: 60.00%, Test Accuracy: 60.98%
+Epoch 19/25
+Loss: 1.1501, Training Accuracy: 60.85%, Test Accuracy: 61.88%
+Epoch 20/25
+Loss: 1.1438, Training Accuracy: 61.16%, Test Accuracy: 61.27%
+Epoch 21/25
+Loss: 1.1460, Training Accuracy: 61.03%, Test Accuracy: 62.47%
+Epoch 22/25
+Loss: 1.1335, Training Accuracy: 62.26%, Test Accuracy: 62.81%
+Epoch 23/25
+Loss: 1.1249, Training Accuracy: 61.81%, Test Accuracy: 62.71%
+Epoch 24/25
+Loss: 1.1216, Training Accuracy: 61.74%, Test Accuracy: 63.38%
+Epoch 25/25
+Loss: 1.1109, Training Accuracy: 62.36%, Test Accuracy: 63.57%
+Finished Training
+| 10        | -1.111    | 0.7954    | 59.2      | 0.0005541 | 7.061     |
+
+Iteration 11, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=75, learning_rate=0.00119
+Epoch 1/25
+Loss: 2.4687, Training Accuracy: 27.39%, Test Accuracy: 26.92%
+Epoch 2/25
+Loss: 1.8802, Training Accuracy: 42.34%, Test Accuracy: 43.24%
+Epoch 3/25
+Loss: 1.5063, Training Accuracy: 52.44%, Test Accuracy: 52.98%
+Epoch 4/25
+Loss: 1.3867, Training Accuracy: 54.31%, Test Accuracy: 55.44%
+Epoch 5/25
+Loss: 1.3373, Training Accuracy: 55.36%, Test Accuracy: 56.35%
+Epoch 6/25
+Loss: 1.2896, Training Accuracy: 56.04%, Test Accuracy: 56.26%
+Epoch 7/25
+Loss: 1.2610, Training Accuracy: 58.09%, Test Accuracy: 58.91%
+Epoch 8/25
+Loss: 1.2342, Training Accuracy: 58.70%, Test Accuracy: 59.82%
+Epoch 9/25
+Loss: 1.2102, Training Accuracy: 57.16%, Test Accuracy: 58.36%
+Epoch 10/25
+Loss: 1.1961, Training Accuracy: 59.37%, Test Accuracy: 60.89%
+Epoch 11/25
+Loss: 1.1847, Training Accuracy: 59.29%, Test Accuracy: 60.74%
+Epoch 12/25
+Loss: 1.1688, Training Accuracy: 60.10%, Test Accuracy: 61.33%
+Epoch 13/25
+Loss: 1.1552, Training Accuracy: 60.32%, Test Accuracy: 60.82%
+Epoch 14/25
+Loss: 1.1503, Training Accuracy: 61.26%, Test Accuracy: 61.65%
+Epoch 15/25
+Loss: 1.1357, Training Accuracy: 60.87%, Test Accuracy: 62.01%
+Epoch 16/25
+Loss: 1.1311, Training Accuracy: 60.76%, Test Accuracy: 62.00%
+Epoch 17/25
+Loss: 1.1265, Training Accuracy: 60.85%, Test Accuracy: 61.47%
+Epoch 18/25
+Loss: 1.1231, Training Accuracy: 61.72%, Test Accuracy: 63.06%
+Epoch 19/25
+Loss: 1.1072, Training Accuracy: 62.25%, Test Accuracy: 62.84%
+Epoch 20/25
+Loss: 1.1011, Training Accuracy: 62.68%, Test Accuracy: 63.57%
+Epoch 21/25
+Loss: 1.1037, Training Accuracy: 62.77%, Test Accuracy: 63.30%
+Epoch 22/25
+Loss: 1.0939, Training Accuracy: 62.14%, Test Accuracy: 62.96%
+Epoch 23/25
+Loss: 1.0915, Training Accuracy: 62.28%, Test Accuracy: 61.86%
+Epoch 24/25
+Loss: 1.0882, Training Accuracy: 62.79%, Test Accuracy: 62.82%
+Epoch 25/25
+Loss: 1.0883, Training Accuracy: 63.10%, Test Accuracy: 63.64%
+Finished Training
+| 11        | -1.088    | 0.5872    | 75.57     | 0.001187  | 7.506     |
+
+Iteration 12, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=54, learning_rate=0.0011
+Epoch 1/25
+Loss: 2.4251, Training Accuracy: 27.15%, Test Accuracy: 28.55%
+Epoch 2/25
+Loss: 1.7677, Training Accuracy: 47.31%, Test Accuracy: 48.17%
+Epoch 3/25
+Loss: 1.4910, Training Accuracy: 49.99%, Test Accuracy: 50.89%
+Epoch 4/25
+Loss: 1.3965, Training Accuracy: 53.27%, Test Accuracy: 54.13%
+Epoch 5/25
+Loss: 1.3210, Training Accuracy: 56.28%, Test Accuracy: 57.33%
+Epoch 6/25
+Loss: 1.2719, Training Accuracy: 57.76%, Test Accuracy: 58.45%
+Epoch 7/25
+Loss: 1.2366, Training Accuracy: 58.52%, Test Accuracy: 59.41%
+Epoch 8/25
+Loss: 1.2189, Training Accuracy: 59.43%, Test Accuracy: 60.76%
+Epoch 9/25
+Loss: 1.1952, Training Accuracy: 59.96%, Test Accuracy: 61.89%
+Epoch 10/25
+Loss: 1.1763, Training Accuracy: 60.05%, Test Accuracy: 60.96%
+Epoch 11/25
+Loss: 1.1637, Training Accuracy: 59.32%, Test Accuracy: 60.24%
+Epoch 12/25
+Loss: 1.1529, Training Accuracy: 60.94%, Test Accuracy: 61.93%
+Epoch 13/25
+Loss: 1.1387, Training Accuracy: 60.55%, Test Accuracy: 61.55%
+Epoch 14/25
+Loss: 1.1274, Training Accuracy: 60.83%, Test Accuracy: 61.44%
+Epoch 15/25
+Loss: 1.1251, Training Accuracy: 61.96%, Test Accuracy: 63.04%
+Epoch 16/25
+Loss: 1.1168, Training Accuracy: 61.97%, Test Accuracy: 62.89%
+Epoch 17/25
+Loss: 1.1044, Training Accuracy: 62.16%, Test Accuracy: 63.02%
+Epoch 18/25
+Loss: 1.1022, Training Accuracy: 62.35%, Test Accuracy: 63.26%
+Epoch 19/25
+Loss: 1.0908, Training Accuracy: 62.91%, Test Accuracy: 63.91%
+Epoch 20/25
+Loss: 1.0915, Training Accuracy: 63.21%, Test Accuracy: 64.48%
+Epoch 21/25
+Loss: 1.0787, Training Accuracy: 62.97%, Test Accuracy: 64.19%
+Epoch 22/25
+Loss: 1.0829, Training Accuracy: 62.98%, Test Accuracy: 64.37%
+Epoch 23/25
+Loss: 1.0792, Training Accuracy: 63.41%, Test Accuracy: 64.12%
+Epoch 24/25
+Loss: 1.0767, Training Accuracy: 63.40%, Test Accuracy: 64.11%
+Epoch 25/25
+Loss: 1.0754, Training Accuracy: 63.64%, Test Accuracy: 64.80%
+Finished Training
+| 12        | -1.075    | 0.2247    | 54.71     | 0.001096  | 7.936     |
+
+Iteration 13, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=109, learning_rate=0.00083
+Epoch 1/25
+Loss: 2.8059, Training Accuracy: 21.20%, Test Accuracy: 21.09%
+Epoch 2/25
+Loss: 2.1309, Training Accuracy: 28.71%, Test Accuracy: 29.67%
+Epoch 3/25
+Loss: 1.9832, Training Accuracy: 34.24%, Test Accuracy: 34.70%
+Epoch 4/25
+Loss: 1.7835, Training Accuracy: 43.21%, Test Accuracy: 43.69%
+Epoch 5/25
+Loss: 1.5931, Training Accuracy: 45.83%, Test Accuracy: 47.48%
+Epoch 6/25
+Loss: 1.4988, Training Accuracy: 50.20%, Test Accuracy: 51.30%
+Epoch 7/25
+Loss: 1.4468, Training Accuracy: 51.41%, Test Accuracy: 52.57%
+Epoch 8/25
+Loss: 1.4039, Training Accuracy: 49.98%, Test Accuracy: 50.92%
+Epoch 9/25
+Loss: 1.3657, Training Accuracy: 54.34%, Test Accuracy: 55.91%
+Epoch 10/25
+Loss: 1.3485, Training Accuracy: 55.44%, Test Accuracy: 55.69%
+Epoch 11/25
+Loss: 1.3205, Training Accuracy: 55.87%, Test Accuracy: 56.18%
+Epoch 12/25
+Loss: 1.2985, Training Accuracy: 56.19%, Test Accuracy: 57.47%
+Epoch 13/25
+Loss: 1.2794, Training Accuracy: 56.90%, Test Accuracy: 58.32%
+Epoch 14/25
+Loss: 1.2628, Training Accuracy: 57.95%, Test Accuracy: 58.99%
+Epoch 15/25
+Loss: 1.2430, Training Accuracy: 58.17%, Test Accuracy: 59.62%
+Epoch 16/25
+Loss: 1.2181, Training Accuracy: 57.67%, Test Accuracy: 59.02%
+Epoch 17/25
+Loss: 1.2041, Training Accuracy: 59.45%, Test Accuracy: 61.13%
+Epoch 18/25
+Loss: 1.1889, Training Accuracy: 60.22%, Test Accuracy: 61.73%
+Epoch 19/25
+Loss: 1.1854, Training Accuracy: 60.01%, Test Accuracy: 61.09%
+Epoch 20/25
+Loss: 1.1646, Training Accuracy: 60.80%, Test Accuracy: 62.60%
+Epoch 21/25
+Loss: 1.1532, Training Accuracy: 60.97%, Test Accuracy: 61.13%
+Epoch 22/25
+Loss: 1.1475, Training Accuracy: 61.14%, Test Accuracy: 61.81%
+Epoch 23/25
+Loss: 1.1449, Training Accuracy: 60.93%, Test Accuracy: 61.77%
+Epoch 24/25
+Loss: 1.1332, Training Accuracy: 60.30%, Test Accuracy: 62.26%
+Epoch 25/25
+Loss: 1.1333, Training Accuracy: 60.70%, Test Accuracy: 62.83%
+Finished Training
+| 13        | -1.133    | 0.1282    | 109.4     | 0.0008312 | 7.848     |
+
+Iteration 14, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=105, learning_rate=0.00107
+Epoch 1/25
+Loss: 2.5158, Training Accuracy: 22.67%, Test Accuracy: 22.84%
+Epoch 2/25
+Loss: 1.9561, Training Accuracy: 39.27%, Test Accuracy: 39.75%
+Epoch 3/25
+Loss: 1.6498, Training Accuracy: 46.93%, Test Accuracy: 49.21%
+Epoch 4/25
+Loss: 1.4649, Training Accuracy: 52.26%, Test Accuracy: 53.29%
+Epoch 5/25
+Loss: 1.3758, Training Accuracy: 54.34%, Test Accuracy: 54.75%
+Epoch 6/25
+Loss: 1.3286, Training Accuracy: 56.15%, Test Accuracy: 57.20%
+Epoch 7/25
+Loss: 1.2727, Training Accuracy: 56.90%, Test Accuracy: 57.80%
+Epoch 8/25
+Loss: 1.2465, Training Accuracy: 57.68%, Test Accuracy: 57.86%
+Epoch 9/25
+Loss: 1.2232, Training Accuracy: 58.91%, Test Accuracy: 59.67%
+Epoch 10/25
+Loss: 1.1940, Training Accuracy: 59.64%, Test Accuracy: 60.33%
+Epoch 11/25
+Loss: 1.1902, Training Accuracy: 60.23%, Test Accuracy: 61.28%
+Epoch 12/25
+Loss: 1.1609, Training Accuracy: 60.53%, Test Accuracy: 61.32%
+Epoch 13/25
+Loss: 1.1582, Training Accuracy: 60.97%, Test Accuracy: 61.06%
+Epoch 14/25
+Loss: 1.1463, Training Accuracy: 61.03%, Test Accuracy: 63.07%
+Epoch 15/25
+Loss: 1.1398, Training Accuracy: 61.66%, Test Accuracy: 62.48%
+Epoch 16/25
+Loss: 1.1231, Training Accuracy: 61.86%, Test Accuracy: 62.88%
+Epoch 17/25
+Loss: 1.1218, Training Accuracy: 62.19%, Test Accuracy: 63.52%
+Epoch 18/25
+Loss: 1.1132, Training Accuracy: 60.88%, Test Accuracy: 62.07%
+Epoch 19/25
+Loss: 1.1059, Training Accuracy: 62.33%, Test Accuracy: 61.49%
+Epoch 20/25
+Loss: 1.0979, Training Accuracy: 62.77%, Test Accuracy: 63.85%
+Epoch 21/25
+Loss: 1.0908, Training Accuracy: 62.43%, Test Accuracy: 63.29%
+Epoch 22/25
+Loss: 1.0890, Training Accuracy: 62.97%, Test Accuracy: 63.95%
+Epoch 23/25
+Loss: 1.0842, Training Accuracy: 63.41%, Test Accuracy: 64.32%
+Epoch 24/25
+Loss: 1.0695, Training Accuracy: 63.30%, Test Accuracy: 64.54%
+Epoch 25/25
+Loss: 1.0719, Training Accuracy: 63.82%, Test Accuracy: 64.55%
+Finished Training
+| 14        | -1.072    | 0.808     | 106.0     | 0.001071  | 7.617     |
+
+Iteration 15, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=81, learning_rate=0.0009
+Epoch 1/25
+Loss: 2.7859, Training Accuracy: 18.48%, Test Accuracy: 18.42%
+Epoch 2/25
+Loss: 2.1259, Training Accuracy: 30.46%, Test Accuracy: 31.32%
+Epoch 3/25
+Loss: 1.8569, Training Accuracy: 41.11%, Test Accuracy: 41.10%
+Epoch 4/25
+Loss: 1.6535, Training Accuracy: 46.55%, Test Accuracy: 46.73%
+Epoch 5/25
+Loss: 1.5271, Training Accuracy: 49.49%, Test Accuracy: 50.85%
+Epoch 6/25
+Loss: 1.4487, Training Accuracy: 50.06%, Test Accuracy: 51.32%
+Epoch 7/25
+Loss: 1.3986, Training Accuracy: 52.75%, Test Accuracy: 53.44%
+Epoch 8/25
+Loss: 1.3535, Training Accuracy: 54.54%, Test Accuracy: 55.35%
+Epoch 9/25
+Loss: 1.3060, Training Accuracy: 56.00%, Test Accuracy: 57.05%
+Epoch 10/25
+Loss: 1.2878, Training Accuracy: 56.36%, Test Accuracy: 56.91%
+Epoch 11/25
+Loss: 1.2681, Training Accuracy: 57.54%, Test Accuracy: 58.93%
+Epoch 12/25
+Loss: 1.2385, Training Accuracy: 57.89%, Test Accuracy: 58.79%
+Epoch 13/25
+Loss: 1.2194, Training Accuracy: 58.38%, Test Accuracy: 58.73%
+Epoch 14/25
+Loss: 1.2081, Training Accuracy: 59.66%, Test Accuracy: 61.03%
+Epoch 15/25
+Loss: 1.1847, Training Accuracy: 59.53%, Test Accuracy: 60.26%
+Epoch 16/25
+Loss: 1.1721, Training Accuracy: 60.51%, Test Accuracy: 61.85%
+Epoch 17/25
+Loss: 1.1563, Training Accuracy: 59.72%, Test Accuracy: 61.59%
+Epoch 18/25
+Loss: 1.1579, Training Accuracy: 60.70%, Test Accuracy: 61.91%
+Epoch 19/25
+Loss: 1.1453, Training Accuracy: 60.13%, Test Accuracy: 61.51%
+Epoch 20/25
+Loss: 1.1350, Training Accuracy: 61.44%, Test Accuracy: 62.74%
+Epoch 21/25
+Loss: 1.1215, Training Accuracy: 61.19%, Test Accuracy: 60.92%
+Epoch 22/25
+Loss: 1.1241, Training Accuracy: 62.27%, Test Accuracy: 63.78%
+Epoch 23/25
+Loss: 1.1203, Training Accuracy: 62.49%, Test Accuracy: 63.44%
+Epoch 24/25
+Loss: 1.1089, Training Accuracy: 62.21%, Test Accuracy: 62.60%
+Epoch 25/25
+Loss: 1.1029, Training Accuracy: 61.36%, Test Accuracy: 62.51%
+Finished Training
+| 15        | -1.103    | 0.252     | 81.84     | 0.0009038 | 7.73      |
+
+Iteration 16, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=95, learning_rate=0.00072
+Epoch 1/25
+Loss: 2.6154, Training Accuracy: 17.88%, Test Accuracy: 17.84%
+Epoch 2/25
+Loss: 2.1726, Training Accuracy: 27.72%, Test Accuracy: 27.82%
+Epoch 3/25
+Loss: 1.9191, Training Accuracy: 38.23%, Test Accuracy: 39.83%
+Epoch 4/25
+Loss: 1.6628, Training Accuracy: 46.84%, Test Accuracy: 47.82%
+Epoch 5/25
+Loss: 1.5087, Training Accuracy: 50.75%, Test Accuracy: 51.94%
+Epoch 6/25
+Loss: 1.4168, Training Accuracy: 53.68%, Test Accuracy: 54.60%
+Epoch 7/25
+Loss: 1.3686, Training Accuracy: 53.82%, Test Accuracy: 54.77%
+Epoch 8/25
+Loss: 1.3318, Training Accuracy: 55.54%, Test Accuracy: 55.98%
+Epoch 9/25
+Loss: 1.2973, Training Accuracy: 55.92%, Test Accuracy: 57.38%
+Epoch 10/25
+Loss: 1.2689, Training Accuracy: 57.34%, Test Accuracy: 58.43%
+Epoch 11/25
+Loss: 1.2510, Training Accuracy: 57.93%, Test Accuracy: 58.40%
+Epoch 12/25
+Loss: 1.2315, Training Accuracy: 57.58%, Test Accuracy: 59.16%
+Epoch 13/25
+Loss: 1.2223, Training Accuracy: 59.16%, Test Accuracy: 60.61%
+Epoch 14/25
+Loss: 1.2062, Training Accuracy: 59.06%, Test Accuracy: 60.34%
+Epoch 15/25
+Loss: 1.1936, Training Accuracy: 57.81%, Test Accuracy: 58.27%
+Epoch 16/25
+Loss: 1.1769, Training Accuracy: 59.16%, Test Accuracy: 60.28%
+Epoch 17/25
+Loss: 1.1692, Training Accuracy: 60.65%, Test Accuracy: 61.80%
+Epoch 18/25
+Loss: 1.1623, Training Accuracy: 60.49%, Test Accuracy: 62.21%
+Epoch 19/25
+Loss: 1.1521, Training Accuracy: 61.05%, Test Accuracy: 62.18%
+Epoch 20/25
+Loss: 1.1427, Training Accuracy: 61.20%, Test Accuracy: 61.74%
+Epoch 21/25
+Loss: 1.1377, Training Accuracy: 61.64%, Test Accuracy: 62.91%
+Epoch 22/25
+Loss: 1.1319, Training Accuracy: 61.59%, Test Accuracy: 63.12%
+Epoch 23/25
+Loss: 1.1225, Training Accuracy: 61.60%, Test Accuracy: 62.34%
+Epoch 24/25
+Loss: 1.1184, Training Accuracy: 61.74%, Test Accuracy: 62.89%
+Epoch 25/25
+Loss: 1.1132, Training Accuracy: 62.40%, Test Accuracy: 62.46%
+Finished Training
+| 16        | -1.113    | 0.6567    | 95.37     | 0.0007218 | 7.33      |
+
+Iteration 17, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=67, learning_rate=0.00118
+Epoch 1/25
+Loss: 2.5754, Training Accuracy: 21.69%, Test Accuracy: 21.98%
+Epoch 2/25
+Loss: 1.9586, Training Accuracy: 38.56%, Test Accuracy: 39.02%
+Epoch 3/25
+Loss: 1.6257, Training Accuracy: 47.75%, Test Accuracy: 48.59%
+Epoch 4/25
+Loss: 1.4809, Training Accuracy: 50.67%, Test Accuracy: 52.47%
+Epoch 5/25
+Loss: 1.4144, Training Accuracy: 50.97%, Test Accuracy: 52.11%
+Epoch 6/25
+Loss: 1.3605, Training Accuracy: 53.03%, Test Accuracy: 55.01%
+Epoch 7/25
+Loss: 1.3254, Training Accuracy: 54.54%, Test Accuracy: 56.46%
+Epoch 8/25
+Loss: 1.2947, Training Accuracy: 56.23%, Test Accuracy: 57.73%
+Epoch 9/25
+Loss: 1.2847, Training Accuracy: 57.20%, Test Accuracy: 57.11%
+Epoch 10/25
+Loss: 1.2539, Training Accuracy: 56.96%, Test Accuracy: 58.08%
+Epoch 11/25
+Loss: 1.2358, Training Accuracy: 58.65%, Test Accuracy: 59.13%
+Epoch 12/25
+Loss: 1.2188, Training Accuracy: 59.05%, Test Accuracy: 60.10%
+Epoch 13/25
+Loss: 1.2054, Training Accuracy: 58.81%, Test Accuracy: 59.83%
+Epoch 14/25
+Loss: 1.1959, Training Accuracy: 59.86%, Test Accuracy: 61.80%
+Epoch 15/25
+Loss: 1.1882, Training Accuracy: 59.49%, Test Accuracy: 60.20%
+Epoch 16/25
+Loss: 1.1729, Training Accuracy: 59.92%, Test Accuracy: 61.11%
+Epoch 17/25
+Loss: 1.1578, Training Accuracy: 60.32%, Test Accuracy: 61.22%
+Epoch 18/25
+Loss: 1.1553, Training Accuracy: 60.76%, Test Accuracy: 61.88%
+Epoch 19/25
+Loss: 1.1462, Training Accuracy: 60.08%, Test Accuracy: 60.91%
+Epoch 20/25
+Loss: 1.1320, Training Accuracy: 61.39%, Test Accuracy: 61.80%
+Epoch 21/25
+Loss: 1.1286, Training Accuracy: 61.45%, Test Accuracy: 62.75%
+Epoch 22/25
+Loss: 1.1324, Training Accuracy: 62.09%, Test Accuracy: 63.04%
+Epoch 23/25
+Loss: 1.1130, Training Accuracy: 61.65%, Test Accuracy: 63.53%
+Epoch 24/25
+Loss: 1.1137, Training Accuracy: 61.48%, Test Accuracy: 62.73%
+Epoch 25/25
+Loss: 1.1114, Training Accuracy: 61.83%, Test Accuracy: 63.06%
+Finished Training
+| 17        | -1.111    | 0.8185    | 67.68     | 0.001182  | 7.21      |
+
+Iteration 18, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=73, learning_rate=0.00084
+Epoch 1/25
+Loss: 2.6826, Training Accuracy: 23.66%, Test Accuracy: 24.16%
+Epoch 2/25
+Loss: 2.0011, Training Accuracy: 37.97%, Test Accuracy: 38.43%
+Epoch 3/25
+Loss: 1.7126, Training Accuracy: 45.18%, Test Accuracy: 45.99%
+Epoch 4/25
+Loss: 1.5438, Training Accuracy: 49.17%, Test Accuracy: 50.74%
+Epoch 5/25
+Loss: 1.4613, Training Accuracy: 51.64%, Test Accuracy: 53.42%
+Epoch 6/25
+Loss: 1.4145, Training Accuracy: 53.08%, Test Accuracy: 53.04%
+Epoch 7/25
+Loss: 1.3722, Training Accuracy: 53.47%, Test Accuracy: 54.25%
+Epoch 8/25
+Loss: 1.3490, Training Accuracy: 54.38%, Test Accuracy: 55.90%
+Epoch 9/25
+Loss: 1.3071, Training Accuracy: 56.71%, Test Accuracy: 57.00%
+Epoch 10/25
+Loss: 1.2803, Training Accuracy: 57.65%, Test Accuracy: 57.82%
+Epoch 11/25
+Loss: 1.2447, Training Accuracy: 57.90%, Test Accuracy: 59.32%
+Epoch 12/25
+Loss: 1.2245, Training Accuracy: 58.47%, Test Accuracy: 59.23%
+Epoch 13/25
+Loss: 1.1952, Training Accuracy: 57.67%, Test Accuracy: 58.91%
+Epoch 14/25
+Loss: 1.1863, Training Accuracy: 60.68%, Test Accuracy: 61.42%
+Epoch 15/25
+Loss: 1.1739, Training Accuracy: 60.03%, Test Accuracy: 60.66%
+Epoch 16/25
+Loss: 1.1568, Training Accuracy: 60.97%, Test Accuracy: 61.58%
+Epoch 17/25
+Loss: 1.1537, Training Accuracy: 60.21%, Test Accuracy: 61.60%
+Epoch 18/25
+Loss: 1.1386, Training Accuracy: 61.34%, Test Accuracy: 62.41%
+Epoch 19/25
+Loss: 1.1382, Training Accuracy: 61.30%, Test Accuracy: 61.07%
+Epoch 20/25
+Loss: 1.1177, Training Accuracy: 62.00%, Test Accuracy: 63.53%
+Epoch 21/25
+Loss: 1.1212, Training Accuracy: 61.02%, Test Accuracy: 61.85%
+Epoch 22/25
+Loss: 1.1149, Training Accuracy: 62.39%, Test Accuracy: 63.84%
+Epoch 23/25
+Loss: 1.1058, Training Accuracy: 63.13%, Test Accuracy: 63.34%
+Epoch 24/25
+Loss: 1.1024, Training Accuracy: 62.43%, Test Accuracy: 64.14%
+Epoch 25/25
+Loss: 1.0965, Training Accuracy: 62.72%, Test Accuracy: 63.70%
+Finished Training
+| 18        | -1.097    | 0.817     | 73.45     | 0.0008403 | 7.813     |
+
+Iteration 19, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=90, learning_rate=0.00121
+Epoch 1/25
+Loss: 2.3951, Training Accuracy: 30.29%, Test Accuracy: 31.01%
+Epoch 2/25
+Loss: 1.7324, Training Accuracy: 46.11%, Test Accuracy: 47.68%
+Epoch 3/25
+Loss: 1.4850, Training Accuracy: 52.43%, Test Accuracy: 52.90%
+Epoch 4/25
+Loss: 1.3864, Training Accuracy: 53.91%, Test Accuracy: 55.19%
+Epoch 5/25
+Loss: 1.3255, Training Accuracy: 55.59%, Test Accuracy: 56.96%
+Epoch 6/25
+Loss: 1.2846, Training Accuracy: 56.27%, Test Accuracy: 56.71%
+Epoch 7/25
+Loss: 1.2583, Training Accuracy: 58.37%, Test Accuracy: 58.48%
+Epoch 8/25
+Loss: 1.2264, Training Accuracy: 58.55%, Test Accuracy: 59.82%
+Epoch 9/25
+Loss: 1.2048, Training Accuracy: 59.24%, Test Accuracy: 60.67%
+Epoch 10/25
+Loss: 1.1867, Training Accuracy: 59.99%, Test Accuracy: 60.75%
+Epoch 11/25
+Loss: 1.1753, Training Accuracy: 59.68%, Test Accuracy: 61.22%
+Epoch 12/25
+Loss: 1.1680, Training Accuracy: 60.93%, Test Accuracy: 61.19%
+Epoch 13/25
+Loss: 1.1512, Training Accuracy: 61.15%, Test Accuracy: 61.19%
+Epoch 14/25
+Loss: 1.1411, Training Accuracy: 61.19%, Test Accuracy: 61.72%
+Epoch 15/25
+Loss: 1.1322, Training Accuracy: 61.42%, Test Accuracy: 62.02%
+Epoch 16/25
+Loss: 1.1213, Training Accuracy: 61.70%, Test Accuracy: 62.61%
+Epoch 17/25
+Loss: 1.1060, Training Accuracy: 62.21%, Test Accuracy: 63.38%
+Epoch 18/25
+Loss: 1.1068, Training Accuracy: 62.73%, Test Accuracy: 64.32%
+Epoch 19/25
+Loss: 1.0954, Training Accuracy: 63.13%, Test Accuracy: 62.87%
+Epoch 20/25
+Loss: 1.0887, Training Accuracy: 63.44%, Test Accuracy: 65.09%
+Epoch 21/25
+Loss: 1.0850, Training Accuracy: 63.21%, Test Accuracy: 63.95%
+Epoch 22/25
+Loss: 1.0805, Training Accuracy: 63.43%, Test Accuracy: 63.73%
+Epoch 23/25
+Loss: 1.0747, Training Accuracy: 62.90%, Test Accuracy: 63.76%
+Epoch 24/25
+Loss: 1.0733, Training Accuracy: 63.65%, Test Accuracy: 64.52%
+Epoch 25/25
+Loss: 1.0647, Training Accuracy: 63.50%, Test Accuracy: 65.33%
+Finished Training
+| 19        | -1.065    | 0.9799    | 90.44     | 0.001214  | 7.061     |
+
+Iteration 20, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=42, learning_rate=0.00077
+Epoch 1/25
+Loss: 2.6487, Training Accuracy: 24.10%, Test Accuracy: 24.34%
+Epoch 2/25
+Loss: 2.0020, Training Accuracy: 34.27%, Test Accuracy: 35.53%
+Epoch 3/25
+Loss: 1.8054, Training Accuracy: 38.94%, Test Accuracy: 38.78%
+Epoch 4/25
+Loss: 1.6095, Training Accuracy: 47.77%, Test Accuracy: 47.84%
+Epoch 5/25
+Loss: 1.4786, Training Accuracy: 51.23%, Test Accuracy: 51.46%
+Epoch 6/25
+Loss: 1.3985, Training Accuracy: 52.94%, Test Accuracy: 54.56%
+Epoch 7/25
+Loss: 1.3406, Training Accuracy: 55.32%, Test Accuracy: 56.50%
+Epoch 8/25
+Loss: 1.2945, Training Accuracy: 56.18%, Test Accuracy: 57.37%
+Epoch 9/25
+Loss: 1.2636, Training Accuracy: 56.18%, Test Accuracy: 58.42%
+Epoch 10/25
+Loss: 1.2397, Training Accuracy: 58.29%, Test Accuracy: 58.83%
+Epoch 11/25
+Loss: 1.2216, Training Accuracy: 58.54%, Test Accuracy: 59.32%
+Epoch 12/25
+Loss: 1.2037, Training Accuracy: 59.73%, Test Accuracy: 60.97%
+Epoch 13/25
+Loss: 1.1860, Training Accuracy: 59.87%, Test Accuracy: 60.72%
+Epoch 14/25
+Loss: 1.1656, Training Accuracy: 60.02%, Test Accuracy: 61.01%
+Epoch 15/25
+Loss: 1.1579, Training Accuracy: 60.97%, Test Accuracy: 61.90%
+Epoch 16/25
+Loss: 1.1437, Training Accuracy: 60.13%, Test Accuracy: 61.38%
+Epoch 17/25
+Loss: 1.1391, Training Accuracy: 61.18%, Test Accuracy: 61.98%
+Epoch 18/25
+Loss: 1.1358, Training Accuracy: 60.34%, Test Accuracy: 61.10%
+Epoch 19/25
+Loss: 1.1233, Training Accuracy: 62.08%, Test Accuracy: 62.97%
+Epoch 20/25
+Loss: 1.1146, Training Accuracy: 61.99%, Test Accuracy: 63.03%
+Epoch 21/25
+Loss: 1.1144, Training Accuracy: 62.33%, Test Accuracy: 63.04%
+Epoch 22/25
+Loss: 1.1040, Training Accuracy: 62.50%, Test Accuracy: 63.46%
+Epoch 23/25
+Loss: 1.1008, Training Accuracy: 62.48%, Test Accuracy: 63.75%
+Epoch 24/25
+Loss: 1.0978, Training Accuracy: 62.81%, Test Accuracy: 63.28%
+Epoch 25/25
+Loss: 1.0874, Training Accuracy: 62.12%, Test Accuracy: 63.05%
+Finished Training
+| 20        | -1.087    | 0.2316    | 42.16     | 0.0007698 | 7.704     |
+
+Iteration 21, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=116, learning_rate=0.00118
+Epoch 1/25
+Loss: 2.3943, Training Accuracy: 29.17%, Test Accuracy: 29.34%
+Epoch 2/25
+Loss: 1.7659, Training Accuracy: 47.64%, Test Accuracy: 49.35%
+Epoch 3/25
+Loss: 1.4657, Training Accuracy: 51.91%, Test Accuracy: 53.28%
+Epoch 4/25
+Loss: 1.3669, Training Accuracy: 54.24%, Test Accuracy: 56.21%
+Epoch 5/25
+Loss: 1.3013, Training Accuracy: 55.67%, Test Accuracy: 57.20%
+Epoch 6/25
+Loss: 1.2626, Training Accuracy: 58.11%, Test Accuracy: 59.37%
+Epoch 7/25
+Loss: 1.2240, Training Accuracy: 59.30%, Test Accuracy: 60.83%
+Epoch 8/25
+Loss: 1.2017, Training Accuracy: 58.96%, Test Accuracy: 59.67%
+Epoch 9/25
+Loss: 1.1804, Training Accuracy: 59.52%, Test Accuracy: 59.65%
+Epoch 10/25
+Loss: 1.1752, Training Accuracy: 60.45%, Test Accuracy: 60.69%
+Epoch 11/25
+Loss: 1.1490, Training Accuracy: 61.06%, Test Accuracy: 60.90%
+Epoch 12/25
+Loss: 1.1438, Training Accuracy: 61.34%, Test Accuracy: 63.15%
+Epoch 13/25
+Loss: 1.1283, Training Accuracy: 61.79%, Test Accuracy: 63.15%
+Epoch 14/25
+Loss: 1.1201, Training Accuracy: 61.37%, Test Accuracy: 61.23%
+Epoch 15/25
+Loss: 1.1133, Training Accuracy: 61.78%, Test Accuracy: 62.41%
+Epoch 16/25
+Loss: 1.1046, Training Accuracy: 61.97%, Test Accuracy: 63.83%
+Epoch 17/25
+Loss: 1.0958, Training Accuracy: 62.59%, Test Accuracy: 63.20%
+Epoch 18/25
+Loss: 1.0948, Training Accuracy: 62.04%, Test Accuracy: 63.84%
+Epoch 19/25
+Loss: 1.0883, Training Accuracy: 62.49%, Test Accuracy: 63.23%
+Epoch 20/25
+Loss: 1.0854, Training Accuracy: 62.43%, Test Accuracy: 63.16%
+Epoch 21/25
+Loss: 1.0851, Training Accuracy: 63.37%, Test Accuracy: 64.36%
+Epoch 22/25
+Loss: 1.0707, Training Accuracy: 62.72%, Test Accuracy: 64.05%
+Epoch 23/25
+Loss: 1.0804, Training Accuracy: 63.82%, Test Accuracy: 63.98%
+Epoch 24/25
+Loss: 1.0656, Training Accuracy: 63.23%, Test Accuracy: 65.37%
+Epoch 25/25
+Loss: 1.0703, Training Accuracy: 63.78%, Test Accuracy: 65.50%
+Finished Training
+| 21        | -1.07     | 0.9743    | 116.8     | 0.001181  | 7.523     |
+
+Iteration 22, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=60, learning_rate=0.00096
+Epoch 1/25
+Loss: 2.5460, Training Accuracy: 19.33%, Test Accuracy: 19.50%
+Epoch 2/25
+Loss: 2.0088, Training Accuracy: 33.70%, Test Accuracy: 33.90%
+Epoch 3/25
+Loss: 1.6702, Training Accuracy: 46.39%, Test Accuracy: 46.36%
+Epoch 4/25
+Loss: 1.5078, Training Accuracy: 50.67%, Test Accuracy: 50.91%
+Epoch 5/25
+Loss: 1.4211, Training Accuracy: 52.71%, Test Accuracy: 53.97%
+Epoch 6/25
+Loss: 1.3628, Training Accuracy: 55.00%, Test Accuracy: 56.10%
+Epoch 7/25
+Loss: 1.3217, Training Accuracy: 56.34%, Test Accuracy: 57.19%
+Epoch 8/25
+Loss: 1.2894, Training Accuracy: 57.38%, Test Accuracy: 58.68%
+Epoch 9/25
+Loss: 1.2672, Training Accuracy: 57.09%, Test Accuracy: 58.16%
+Epoch 10/25
+Loss: 1.2421, Training Accuracy: 56.90%, Test Accuracy: 57.73%
+Epoch 11/25
+Loss: 1.2321, Training Accuracy: 58.29%, Test Accuracy: 59.46%
+Epoch 12/25
+Loss: 1.2111, Training Accuracy: 57.65%, Test Accuracy: 58.60%
+Epoch 13/25
+Loss: 1.1949, Training Accuracy: 59.23%, Test Accuracy: 60.18%
+Epoch 14/25
+Loss: 1.1878, Training Accuracy: 60.00%, Test Accuracy: 60.99%
+Epoch 15/25
+Loss: 1.1766, Training Accuracy: 58.64%, Test Accuracy: 59.04%
+Epoch 16/25
+Loss: 1.1642, Training Accuracy: 60.47%, Test Accuracy: 61.15%
+Epoch 17/25
+Loss: 1.1534, Training Accuracy: 60.99%, Test Accuracy: 62.29%
+Epoch 18/25
+Loss: 1.1409, Training Accuracy: 59.74%, Test Accuracy: 61.67%
+Epoch 19/25
+Loss: 1.1370, Training Accuracy: 61.15%, Test Accuracy: 61.88%
+Epoch 20/25
+Loss: 1.1299, Training Accuracy: 61.05%, Test Accuracy: 62.32%
+Epoch 21/25
+Loss: 1.1181, Training Accuracy: 61.85%, Test Accuracy: 62.67%
+Epoch 22/25
+Loss: 1.1149, Training Accuracy: 62.60%, Test Accuracy: 63.47%
+Epoch 23/25
+Loss: 1.1046, Training Accuracy: 62.46%, Test Accuracy: 63.48%
+Epoch 24/25
+Loss: 1.1012, Training Accuracy: 62.91%, Test Accuracy: 64.06%
+Epoch 25/25
+Loss: 1.0944, Training Accuracy: 62.62%, Test Accuracy: 63.49%
+Finished Training
+| 22        | -1.094    | 0.8422    | 60.49     | 0.0009598 | 7.911     |
+
+Iteration 23, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=95, learning_rate=0.00109
+Epoch 1/25
+Loss: 2.5801, Training Accuracy: 20.27%, Test Accuracy: 20.02%
+Epoch 2/25
+Loss: 1.9862, Training Accuracy: 34.98%, Test Accuracy: 35.77%
+Epoch 3/25
+Loss: 1.8042, Training Accuracy: 40.76%, Test Accuracy: 41.25%
+Epoch 4/25
+Loss: 1.6327, Training Accuracy: 47.78%, Test Accuracy: 49.84%
+Epoch 5/25
+Loss: 1.5035, Training Accuracy: 49.65%, Test Accuracy: 50.61%
+Epoch 6/25
+Loss: 1.4327, Training Accuracy: 52.67%, Test Accuracy: 54.04%
+Epoch 7/25
+Loss: 1.3856, Training Accuracy: 53.65%, Test Accuracy: 54.68%
+Epoch 8/25
+Loss: 1.3458, Training Accuracy: 55.41%, Test Accuracy: 56.39%
+Epoch 9/25
+Loss: 1.3134, Training Accuracy: 55.89%, Test Accuracy: 56.24%
+Epoch 10/25
+Loss: 1.2863, Training Accuracy: 56.35%, Test Accuracy: 58.09%
+Epoch 11/25
+Loss: 1.2578, Training Accuracy: 57.66%, Test Accuracy: 58.76%
+Epoch 12/25
+Loss: 1.2403, Training Accuracy: 58.50%, Test Accuracy: 58.86%
+Epoch 13/25
+Loss: 1.2281, Training Accuracy: 58.13%, Test Accuracy: 59.35%
+Epoch 14/25
+Loss: 1.2177, Training Accuracy: 58.75%, Test Accuracy: 59.72%
+Epoch 15/25
+Loss: 1.2108, Training Accuracy: 56.95%, Test Accuracy: 57.56%
+Epoch 16/25
+Loss: 1.1936, Training Accuracy: 59.37%, Test Accuracy: 60.33%
+Epoch 17/25
+Loss: 1.1848, Training Accuracy: 60.04%, Test Accuracy: 60.73%
+Epoch 18/25
+Loss: 1.1742, Training Accuracy: 60.55%, Test Accuracy: 60.07%
+Epoch 19/25
+Loss: 1.1647, Training Accuracy: 60.36%, Test Accuracy: 61.42%
+Epoch 20/25
+Loss: 1.1565, Training Accuracy: 60.86%, Test Accuracy: 62.69%
+Epoch 21/25
+Loss: 1.1522, Training Accuracy: 61.47%, Test Accuracy: 62.57%
+Epoch 22/25
+Loss: 1.1444, Training Accuracy: 61.11%, Test Accuracy: 61.98%
+Epoch 23/25
+Loss: 1.1316, Training Accuracy: 61.61%, Test Accuracy: 63.51%
+Epoch 24/25
+Loss: 1.1249, Training Accuracy: 61.18%, Test Accuracy: 62.21%
+Epoch 25/25
+Loss: 1.1202, Training Accuracy: 61.77%, Test Accuracy: 62.92%
+Finished Training
+| 23        | -1.12     | 0.5137    | 95.54     | 0.001092  | 7.066     |
+
+Iteration 24, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=107, learning_rate=0.00057
+Epoch 1/25
+Loss: 2.8057, Training Accuracy: 14.54%, Test Accuracy: 14.42%
+Epoch 2/25
+Loss: 2.2228, Training Accuracy: 25.69%, Test Accuracy: 26.02%
+Epoch 3/25
+Loss: 1.9769, Training Accuracy: 34.51%, Test Accuracy: 34.52%
+Epoch 4/25
+Loss: 1.8138, Training Accuracy: 42.75%, Test Accuracy: 43.25%
+Epoch 5/25
+Loss: 1.6373, Training Accuracy: 46.55%, Test Accuracy: 48.67%
+Epoch 6/25
+Loss: 1.5011, Training Accuracy: 50.65%, Test Accuracy: 51.71%
+Epoch 7/25
+Loss: 1.4298, Training Accuracy: 50.27%, Test Accuracy: 50.62%
+Epoch 8/25
+Loss: 1.3828, Training Accuracy: 53.80%, Test Accuracy: 55.59%
+Epoch 9/25
+Loss: 1.3558, Training Accuracy: 54.31%, Test Accuracy: 55.04%
+Epoch 10/25
+Loss: 1.3290, Training Accuracy: 53.32%, Test Accuracy: 53.69%
+Epoch 11/25
+Loss: 1.3070, Training Accuracy: 55.45%, Test Accuracy: 56.84%
+Epoch 12/25
+Loss: 1.2841, Training Accuracy: 56.58%, Test Accuracy: 57.85%
+Epoch 13/25
+Loss: 1.2646, Training Accuracy: 56.46%, Test Accuracy: 57.42%
+Epoch 14/25
+Loss: 1.2532, Training Accuracy: 57.79%, Test Accuracy: 58.89%
+Epoch 15/25
+Loss: 1.2376, Training Accuracy: 57.93%, Test Accuracy: 58.90%
+Epoch 16/25
+Loss: 1.2237, Training Accuracy: 57.77%, Test Accuracy: 59.32%
+Epoch 17/25
+Loss: 1.2085, Training Accuracy: 58.75%, Test Accuracy: 59.51%
+Epoch 18/25
+Loss: 1.1934, Training Accuracy: 59.28%, Test Accuracy: 60.21%
+Epoch 19/25
+Loss: 1.1773, Training Accuracy: 59.71%, Test Accuracy: 60.55%
+Epoch 20/25
+Loss: 1.1696, Training Accuracy: 59.49%, Test Accuracy: 60.07%
+Epoch 21/25
+Loss: 1.1537, Training Accuracy: 60.45%, Test Accuracy: 61.12%
+Epoch 22/25
+Loss: 1.1462, Training Accuracy: 61.21%, Test Accuracy: 62.91%
+Epoch 23/25
+Loss: 1.1370, Training Accuracy: 61.76%, Test Accuracy: 62.66%
+Epoch 24/25
+Loss: 1.1239, Training Accuracy: 62.28%, Test Accuracy: 62.53%
+Epoch 25/25
+Loss: 1.1252, Training Accuracy: 61.51%, Test Accuracy: 62.67%
+Finished Training
+| 24        | -1.125    | 0.08847   | 107.7     | 0.0005682 | 7.875     |
+
+Iteration 25, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=59, learning_rate=0.00063
+Epoch 1/25
+Loss: 2.7464, Training Accuracy: 17.99%, Test Accuracy: 18.04%
+Epoch 2/25
+Loss: 2.1692, Training Accuracy: 29.65%, Test Accuracy: 30.74%
+Epoch 3/25
+Loss: 1.9691, Training Accuracy: 34.25%, Test Accuracy: 35.98%
+Epoch 4/25
+Loss: 1.8267, Training Accuracy: 41.75%, Test Accuracy: 42.27%
+Epoch 5/25
+Loss: 1.6552, Training Accuracy: 47.09%, Test Accuracy: 48.60%
+Epoch 6/25
+Loss: 1.5027, Training Accuracy: 50.64%, Test Accuracy: 51.84%
+Epoch 7/25
+Loss: 1.4446, Training Accuracy: 51.48%, Test Accuracy: 51.81%
+Epoch 8/25
+Loss: 1.4080, Training Accuracy: 52.35%, Test Accuracy: 53.52%
+Epoch 9/25
+Loss: 1.3710, Training Accuracy: 53.66%, Test Accuracy: 54.86%
+Epoch 10/25
+Loss: 1.3463, Training Accuracy: 54.98%, Test Accuracy: 56.49%
+Epoch 11/25
+Loss: 1.3147, Training Accuracy: 55.43%, Test Accuracy: 56.31%
+Epoch 12/25
+Loss: 1.2867, Training Accuracy: 55.69%, Test Accuracy: 57.84%
+Epoch 13/25
+Loss: 1.2639, Training Accuracy: 57.32%, Test Accuracy: 58.35%
+Epoch 14/25
+Loss: 1.2460, Training Accuracy: 57.20%, Test Accuracy: 58.66%
+Epoch 15/25
+Loss: 1.2236, Training Accuracy: 58.64%, Test Accuracy: 58.05%
+Epoch 16/25
+Loss: 1.2126, Training Accuracy: 58.69%, Test Accuracy: 60.25%
+Epoch 17/25
+Loss: 1.1971, Training Accuracy: 59.37%, Test Accuracy: 60.71%
+Epoch 18/25
+Loss: 1.1862, Training Accuracy: 60.11%, Test Accuracy: 61.46%
+Epoch 19/25
+Loss: 1.1820, Training Accuracy: 60.14%, Test Accuracy: 61.39%
+Epoch 20/25
+Loss: 1.1699, Training Accuracy: 59.80%, Test Accuracy: 60.18%
+Epoch 21/25
+Loss: 1.1520, Training Accuracy: 60.45%, Test Accuracy: 61.74%
+Epoch 22/25
+Loss: 1.1496, Training Accuracy: 60.44%, Test Accuracy: 61.21%
+Epoch 23/25
+Loss: 1.1358, Training Accuracy: 61.05%, Test Accuracy: 62.81%
+Epoch 24/25
+Loss: 1.1268, Training Accuracy: 61.45%, Test Accuracy: 62.45%
+Epoch 25/25
+Loss: 1.1213, Training Accuracy: 62.20%, Test Accuracy: 63.03%
+Finished Training
+| 25        | -1.121    | 0.4848    | 59.21     | 0.0006286 | 7.802     |
+
+Iteration 26, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=48, learning_rate=0.00064
+Epoch 1/25
+Loss: 2.7525, Training Accuracy: 18.85%, Test Accuracy: 18.76%
+Epoch 2/25
+Loss: 2.0952, Training Accuracy: 30.23%, Test Accuracy: 30.72%
+Epoch 3/25
+Loss: 1.9075, Training Accuracy: 35.48%, Test Accuracy: 36.01%
+Epoch 4/25
+Loss: 1.7660, Training Accuracy: 43.10%, Test Accuracy: 43.82%
+Epoch 5/25
+Loss: 1.5744, Training Accuracy: 48.02%, Test Accuracy: 48.63%
+Epoch 6/25
+Loss: 1.4699, Training Accuracy: 51.98%, Test Accuracy: 52.79%
+Epoch 7/25
+Loss: 1.4049, Training Accuracy: 52.82%, Test Accuracy: 52.68%
+Epoch 8/25
+Loss: 1.3634, Training Accuracy: 55.07%, Test Accuracy: 56.05%
+Epoch 9/25
+Loss: 1.3248, Training Accuracy: 55.19%, Test Accuracy: 56.46%
+Epoch 10/25
+Loss: 1.2951, Training Accuracy: 54.82%, Test Accuracy: 55.96%
+Epoch 11/25
+Loss: 1.2793, Training Accuracy: 57.11%, Test Accuracy: 57.05%
+Epoch 12/25
+Loss: 1.2417, Training Accuracy: 58.54%, Test Accuracy: 59.22%
+Epoch 13/25
+Loss: 1.2356, Training Accuracy: 58.29%, Test Accuracy: 59.84%
+Epoch 14/25
+Loss: 1.2180, Training Accuracy: 59.27%, Test Accuracy: 60.24%
+Epoch 15/25
+Loss: 1.1978, Training Accuracy: 58.99%, Test Accuracy: 59.62%
+Epoch 16/25
+Loss: 1.1868, Training Accuracy: 60.11%, Test Accuracy: 61.65%
+Epoch 17/25
+Loss: 1.1757, Training Accuracy: 59.81%, Test Accuracy: 60.20%
+Epoch 18/25
+Loss: 1.1651, Training Accuracy: 60.86%, Test Accuracy: 61.97%
+Epoch 19/25
+Loss: 1.1558, Training Accuracy: 60.99%, Test Accuracy: 61.28%
+Epoch 20/25
+Loss: 1.1434, Training Accuracy: 61.56%, Test Accuracy: 61.68%
+Epoch 21/25
+Loss: 1.1312, Training Accuracy: 61.52%, Test Accuracy: 62.71%
+Epoch 22/25
+Loss: 1.1304, Training Accuracy: 62.25%, Test Accuracy: 63.26%
+Epoch 23/25
+Loss: 1.1205, Training Accuracy: 62.34%, Test Accuracy: 63.86%
+Epoch 24/25
+Loss: 1.1129, Training Accuracy: 61.80%, Test Accuracy: 62.10%
+Epoch 25/25
+Loss: 1.1123, Training Accuracy: 61.92%, Test Accuracy: 63.34%
+Finished Training
+| 26        | -1.112    | 0.24      | 48.68     | 0.0006391 | 7.501     |
+
+Iteration 27, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=89, learning_rate=0.00067
+Epoch 1/25
+Loss: 2.6019, Training Accuracy: 22.82%, Test Accuracy: 22.96%
+Epoch 2/25
+Loss: 2.0726, Training Accuracy: 26.84%, Test Accuracy: 27.26%
+Epoch 3/25
+Loss: 1.8016, Training Accuracy: 45.54%, Test Accuracy: 46.29%
+Epoch 4/25
+Loss: 1.5478, Training Accuracy: 49.00%, Test Accuracy: 50.15%
+Epoch 5/25
+Loss: 1.4366, Training Accuracy: 51.01%, Test Accuracy: 52.30%
+Epoch 6/25
+Loss: 1.3708, Training Accuracy: 52.76%, Test Accuracy: 54.14%
+Epoch 7/25
+Loss: 1.3296, Training Accuracy: 54.37%, Test Accuracy: 55.56%
+Epoch 8/25
+Loss: 1.2868, Training Accuracy: 54.03%, Test Accuracy: 55.35%
+Epoch 9/25
+Loss: 1.2617, Training Accuracy: 57.44%, Test Accuracy: 58.28%
+Epoch 10/25
+Loss: 1.2337, Training Accuracy: 58.58%, Test Accuracy: 59.45%
+Epoch 11/25
+Loss: 1.2118, Training Accuracy: 59.13%, Test Accuracy: 60.51%
+Epoch 12/25
+Loss: 1.1913, Training Accuracy: 59.61%, Test Accuracy: 60.97%
+Epoch 13/25
+Loss: 1.1848, Training Accuracy: 58.86%, Test Accuracy: 60.42%
+Epoch 14/25
+Loss: 1.1727, Training Accuracy: 59.29%, Test Accuracy: 59.41%
+Epoch 15/25
+Loss: 1.1622, Training Accuracy: 60.83%, Test Accuracy: 60.56%
+Epoch 16/25
+Loss: 1.1509, Training Accuracy: 60.29%, Test Accuracy: 60.54%
+Epoch 17/25
+Loss: 1.1444, Training Accuracy: 61.67%, Test Accuracy: 62.81%
+Epoch 18/25
+Loss: 1.1300, Training Accuracy: 61.26%, Test Accuracy: 62.41%
+Epoch 19/25
+Loss: 1.1246, Training Accuracy: 62.19%, Test Accuracy: 63.16%
+Epoch 20/25
+Loss: 1.1193, Training Accuracy: 61.83%, Test Accuracy: 62.80%
+Epoch 21/25
+Loss: 1.1095, Training Accuracy: 62.17%, Test Accuracy: 62.98%
+Epoch 22/25
+Loss: 1.1074, Training Accuracy: 62.60%, Test Accuracy: 63.77%
+Epoch 23/25
+Loss: 1.1014, Training Accuracy: 62.37%, Test Accuracy: 63.74%
+Epoch 24/25
+Loss: 1.0942, Training Accuracy: 62.88%, Test Accuracy: 63.98%
+Epoch 25/25
+Loss: 1.0897, Training Accuracy: 62.11%, Test Accuracy: 63.10%
+Finished Training
+| 27        | -1.09     | 0.4587    | 89.94     | 0.0006721 | 7.193     |
+
+Iteration 28, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=54, learning_rate=0.00096
+Epoch 1/25
+Loss: 2.4770, Training Accuracy: 26.85%, Test Accuracy: 27.05%
+Epoch 2/25
+Loss: 1.8917, Training Accuracy: 41.74%, Test Accuracy: 41.97%
+Epoch 3/25
+Loss: 1.5651, Training Accuracy: 50.48%, Test Accuracy: 51.40%
+Epoch 4/25
+Loss: 1.4171, Training Accuracy: 53.53%, Test Accuracy: 54.50%
+Epoch 5/25
+Loss: 1.3370, Training Accuracy: 54.90%, Test Accuracy: 56.00%
+Epoch 6/25
+Loss: 1.2902, Training Accuracy: 56.92%, Test Accuracy: 58.18%
+Epoch 7/25
+Loss: 1.2535, Training Accuracy: 56.38%, Test Accuracy: 57.88%
+Epoch 8/25
+Loss: 1.2327, Training Accuracy: 58.65%, Test Accuracy: 59.04%
+Epoch 9/25
+Loss: 1.2041, Training Accuracy: 58.70%, Test Accuracy: 60.07%
+Epoch 10/25
+Loss: 1.1951, Training Accuracy: 59.37%, Test Accuracy: 60.29%
+Epoch 11/25
+Loss: 1.1766, Training Accuracy: 60.23%, Test Accuracy: 61.26%
+Epoch 12/25
+Loss: 1.1597, Training Accuracy: 59.90%, Test Accuracy: 61.70%
+Epoch 13/25
+Loss: 1.1521, Training Accuracy: 60.85%, Test Accuracy: 61.62%
+Epoch 14/25
+Loss: 1.1411, Training Accuracy: 60.55%, Test Accuracy: 62.31%
+Epoch 15/25
+Loss: 1.1282, Training Accuracy: 61.22%, Test Accuracy: 62.66%
+Epoch 16/25
+Loss: 1.1251, Training Accuracy: 61.08%, Test Accuracy: 62.51%
+Epoch 17/25
+Loss: 1.1146, Training Accuracy: 62.41%, Test Accuracy: 63.35%
+Epoch 18/25
+Loss: 1.1078, Training Accuracy: 62.57%, Test Accuracy: 63.57%
+Epoch 19/25
+Loss: 1.1069, Training Accuracy: 62.22%, Test Accuracy: 63.20%
+Epoch 20/25
+Loss: 1.1066, Training Accuracy: 62.75%, Test Accuracy: 63.29%
+Epoch 21/25
+Loss: 1.0908, Training Accuracy: 62.90%, Test Accuracy: 63.29%
+Epoch 22/25
+Loss: 1.0858, Training Accuracy: 63.04%, Test Accuracy: 64.78%
+Epoch 23/25
+Loss: 1.0840, Training Accuracy: 62.93%, Test Accuracy: 63.45%
+Epoch 24/25
+Loss: 1.0764, Training Accuracy: 63.22%, Test Accuracy: 64.25%
+Epoch 25/25
+Loss: 1.0678, Training Accuracy: 63.15%, Test Accuracy: 64.46%
+Finished Training
+| 28        | -1.068    | 0.4763    | 54.57     | 0.0009588 | 7.292     |
+
+Iteration 29, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=62, learning_rate=0.00074
+Epoch 1/25
+Loss: 2.5918, Training Accuracy: 25.38%, Test Accuracy: 25.85%
+Epoch 2/25
+Loss: 2.0000, Training Accuracy: 35.78%, Test Accuracy: 35.83%
+Epoch 3/25
+Loss: 1.7803, Training Accuracy: 44.80%, Test Accuracy: 46.12%
+Epoch 4/25
+Loss: 1.5681, Training Accuracy: 47.53%, Test Accuracy: 48.47%
+Epoch 5/25
+Loss: 1.4672, Training Accuracy: 51.09%, Test Accuracy: 53.08%
+Epoch 6/25
+Loss: 1.3979, Training Accuracy: 54.69%, Test Accuracy: 55.87%
+Epoch 7/25
+Loss: 1.3427, Training Accuracy: 54.26%, Test Accuracy: 56.15%
+Epoch 8/25
+Loss: 1.3119, Training Accuracy: 56.24%, Test Accuracy: 57.60%
+Epoch 9/25
+Loss: 1.2864, Training Accuracy: 55.86%, Test Accuracy: 56.32%
+Epoch 10/25
+Loss: 1.2592, Training Accuracy: 57.70%, Test Accuracy: 59.70%
+Epoch 11/25
+Loss: 1.2324, Training Accuracy: 57.80%, Test Accuracy: 58.86%
+Epoch 12/25
+Loss: 1.2130, Training Accuracy: 59.38%, Test Accuracy: 60.46%
+Epoch 13/25
+Loss: 1.1956, Training Accuracy: 59.20%, Test Accuracy: 59.62%
+Epoch 14/25
+Loss: 1.1843, Training Accuracy: 59.85%, Test Accuracy: 60.62%
+Epoch 15/25
+Loss: 1.1706, Training Accuracy: 60.00%, Test Accuracy: 60.78%
+Epoch 16/25
+Loss: 1.1623, Training Accuracy: 59.82%, Test Accuracy: 61.70%
+Epoch 17/25
+Loss: 1.1588, Training Accuracy: 59.09%, Test Accuracy: 60.05%
+Epoch 18/25
+Loss: 1.1465, Training Accuracy: 61.21%, Test Accuracy: 62.07%
+Epoch 19/25
+Loss: 1.1415, Training Accuracy: 60.23%, Test Accuracy: 61.44%
+Epoch 20/25
+Loss: 1.1302, Training Accuracy: 61.26%, Test Accuracy: 62.46%
+Epoch 21/25
+Loss: 1.1217, Training Accuracy: 61.32%, Test Accuracy: 63.01%
+Epoch 22/25
+Loss: 1.1133, Training Accuracy: 61.46%, Test Accuracy: 62.15%
+Epoch 23/25
+Loss: 1.1084, Training Accuracy: 61.75%, Test Accuracy: 62.68%
+Epoch 24/25
+Loss: 1.1035, Training Accuracy: 62.21%, Test Accuracy: 62.74%
+Epoch 25/25
+Loss: 1.0956, Training Accuracy: 62.63%, Test Accuracy: 63.97%
+Finished Training
+| 29        | -1.096    | 0.5831    | 62.13     | 0.0007409 | 7.894     |
+
+Iteration 30, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=42, learning_rate=0.00055
+Epoch 1/25
+Loss: 2.9488, Training Accuracy: 19.69%, Test Accuracy: 20.04%
+Epoch 2/25
+Loss: 2.1371, Training Accuracy: 28.41%, Test Accuracy: 29.15%
+Epoch 3/25
+Loss: 1.9484, Training Accuracy: 34.13%, Test Accuracy: 34.62%
+Epoch 4/25
+Loss: 1.7896, Training Accuracy: 42.15%, Test Accuracy: 43.01%
+Epoch 5/25
+Loss: 1.6044, Training Accuracy: 47.27%, Test Accuracy: 47.91%
+Epoch 6/25
+Loss: 1.4893, Training Accuracy: 50.19%, Test Accuracy: 50.79%
+Epoch 7/25
+Loss: 1.4274, Training Accuracy: 51.90%, Test Accuracy: 53.32%
+Epoch 8/25
+Loss: 1.3732, Training Accuracy: 53.55%, Test Accuracy: 54.92%
+Epoch 9/25
+Loss: 1.3408, Training Accuracy: 54.64%, Test Accuracy: 55.14%
+Epoch 10/25
+Loss: 1.3142, Training Accuracy: 55.24%, Test Accuracy: 57.07%
+Epoch 11/25
+Loss: 1.2889, Training Accuracy: 55.63%, Test Accuracy: 57.05%
+Epoch 12/25
+Loss: 1.2624, Training Accuracy: 56.85%, Test Accuracy: 58.44%
+Epoch 13/25
+Loss: 1.2398, Training Accuracy: 58.36%, Test Accuracy: 59.94%
+Epoch 14/25
+Loss: 1.2277, Training Accuracy: 58.30%, Test Accuracy: 59.61%
+Epoch 15/25
+Loss: 1.2075, Training Accuracy: 59.77%, Test Accuracy: 61.04%
+Epoch 16/25
+Loss: 1.1911, Training Accuracy: 59.94%, Test Accuracy: 61.10%
+Epoch 17/25
+Loss: 1.1901, Training Accuracy: 59.27%, Test Accuracy: 60.46%
+Epoch 18/25
+Loss: 1.1696, Training Accuracy: 60.32%, Test Accuracy: 60.86%
+Epoch 19/25
+Loss: 1.1549, Training Accuracy: 59.86%, Test Accuracy: 60.84%
+Epoch 20/25
+Loss: 1.1507, Training Accuracy: 61.39%, Test Accuracy: 62.60%
+Epoch 21/25
+Loss: 1.1416, Training Accuracy: 60.85%, Test Accuracy: 61.48%
+Epoch 22/25
+Loss: 1.1429, Training Accuracy: 61.77%, Test Accuracy: 62.27%
+Epoch 23/25
+Loss: 1.1278, Training Accuracy: 61.89%, Test Accuracy: 63.29%
+Epoch 24/25
+Loss: 1.1267, Training Accuracy: 61.76%, Test Accuracy: 63.14%
+Epoch 25/25
+Loss: 1.1145, Training Accuracy: 61.14%, Test Accuracy: 62.59%
+Finished Training
+| 30        | -1.115    | 0.4995    | 42.03     | 0.0005525 | 7.421     |
+
+Iteration 31, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=95, learning_rate=0.00094
+Epoch 1/25
+Loss: 2.8969, Training Accuracy: 13.79%, Test Accuracy: 13.71%
+Epoch 2/25
+Loss: 2.2179, Training Accuracy: 20.67%, Test Accuracy: 21.03%
+Epoch 3/25
+Loss: 1.9911, Training Accuracy: 32.98%, Test Accuracy: 33.18%
+Epoch 4/25
+Loss: 1.8687, Training Accuracy: 38.22%, Test Accuracy: 38.46%
+Epoch 5/25
+Loss: 1.7597, Training Accuracy: 41.24%, Test Accuracy: 41.39%
+Epoch 6/25
+Loss: 1.6854, Training Accuracy: 43.97%, Test Accuracy: 44.64%
+Epoch 7/25
+Loss: 1.6314, Training Accuracy: 45.14%, Test Accuracy: 46.11%
+Epoch 8/25
+Loss: 1.5803, Training Accuracy: 47.93%, Test Accuracy: 48.21%
+Epoch 9/25
+Loss: 1.5393, Training Accuracy: 48.80%, Test Accuracy: 49.75%
+Epoch 10/25
+Loss: 1.5013, Training Accuracy: 49.98%, Test Accuracy: 51.20%
+Epoch 11/25
+Loss: 1.4542, Training Accuracy: 51.08%, Test Accuracy: 51.95%
+Epoch 12/25
+Loss: 1.4192, Training Accuracy: 52.07%, Test Accuracy: 54.06%
+Epoch 13/25
+Loss: 1.3959, Training Accuracy: 53.18%, Test Accuracy: 54.49%
+Epoch 14/25
+Loss: 1.3682, Training Accuracy: 54.60%, Test Accuracy: 55.47%
+Epoch 15/25
+Loss: 1.3360, Training Accuracy: 54.52%, Test Accuracy: 55.42%
+Epoch 16/25
+Loss: 1.3259, Training Accuracy: 55.77%, Test Accuracy: 55.96%
+Epoch 17/25
+Loss: 1.3007, Training Accuracy: 56.13%, Test Accuracy: 57.62%
+Epoch 18/25
+Loss: 1.2861, Training Accuracy: 55.37%, Test Accuracy: 55.57%
+Epoch 19/25
+Loss: 1.2679, Training Accuracy: 57.35%, Test Accuracy: 58.69%
+Epoch 20/25
+Loss: 1.2473, Training Accuracy: 57.48%, Test Accuracy: 58.46%
+Epoch 21/25
+Loss: 1.2332, Training Accuracy: 58.38%, Test Accuracy: 59.84%
+Epoch 22/25
+Loss: 1.2248, Training Accuracy: 57.87%, Test Accuracy: 58.88%
+Epoch 23/25
+Loss: 1.2052, Training Accuracy: 58.44%, Test Accuracy: 58.84%
+Epoch 24/25
+Loss: 1.2000, Training Accuracy: 59.46%, Test Accuracy: 60.13%
+Epoch 25/25
+Loss: 1.1887, Training Accuracy: 58.95%, Test Accuracy: 60.51%
+Finished Training
+| 31        | -1.189    | 0.5059    | 95.62     | 0.0009425 | 7.821     |
+
+Iteration 32, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=74, learning_rate=0.00106
+Epoch 1/25
+Loss: 2.5579, Training Accuracy: 20.87%, Test Accuracy: 20.75%
+Epoch 2/25
+Loss: 2.0374, Training Accuracy: 37.15%, Test Accuracy: 38.02%
+Epoch 3/25
+Loss: 1.6357, Training Accuracy: 49.89%, Test Accuracy: 49.66%
+Epoch 4/25
+Loss: 1.4468, Training Accuracy: 52.84%, Test Accuracy: 54.31%
+Epoch 5/25
+Loss: 1.3619, Training Accuracy: 54.39%, Test Accuracy: 54.63%
+Epoch 6/25
+Loss: 1.3038, Training Accuracy: 55.93%, Test Accuracy: 56.45%
+Epoch 7/25
+Loss: 1.2595, Training Accuracy: 58.36%, Test Accuracy: 58.93%
+Epoch 8/25
+Loss: 1.2359, Training Accuracy: 57.51%, Test Accuracy: 58.59%
+Epoch 9/25
+Loss: 1.2039, Training Accuracy: 59.54%, Test Accuracy: 60.50%
+Epoch 10/25
+Loss: 1.1822, Training Accuracy: 60.34%, Test Accuracy: 61.15%
+Epoch 11/25
+Loss: 1.1664, Training Accuracy: 60.89%, Test Accuracy: 61.74%
+Epoch 12/25
+Loss: 1.1588, Training Accuracy: 61.35%, Test Accuracy: 62.13%
+Epoch 13/25
+Loss: 1.1447, Training Accuracy: 61.65%, Test Accuracy: 62.52%
+Epoch 14/25
+Loss: 1.1349, Training Accuracy: 61.78%, Test Accuracy: 61.75%
+Epoch 15/25
+Loss: 1.1326, Training Accuracy: 62.02%, Test Accuracy: 63.50%
+Epoch 16/25
+Loss: 1.1110, Training Accuracy: 61.18%, Test Accuracy: 61.78%
+Epoch 17/25
+Loss: 1.1050, Training Accuracy: 61.46%, Test Accuracy: 63.14%
+Epoch 18/25
+Loss: 1.1038, Training Accuracy: 62.26%, Test Accuracy: 63.10%
+Epoch 19/25
+Loss: 1.0969, Training Accuracy: 63.05%, Test Accuracy: 64.26%
+Epoch 20/25
+Loss: 1.0920, Training Accuracy: 62.41%, Test Accuracy: 63.21%
+Epoch 21/25
+Loss: 1.0786, Training Accuracy: 63.01%, Test Accuracy: 63.86%
+Epoch 22/25
+Loss: 1.0818, Training Accuracy: 63.13%, Test Accuracy: 63.48%
+Epoch 23/25
+Loss: 1.0764, Training Accuracy: 63.09%, Test Accuracy: 64.28%
+Epoch 24/25
+Loss: 1.0652, Training Accuracy: 63.27%, Test Accuracy: 64.89%
+Epoch 25/25
+Loss: 1.0605, Training Accuracy: 63.98%, Test Accuracy: 64.76%
+Finished Training
+| 32        | -1.06     | 0.1134    | 74.14     | 0.001062  | 7.974     |
+
+Iteration 33, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=109, learning_rate=0.00097
+Epoch 1/25
+Loss: 2.5579, Training Accuracy: 22.71%, Test Accuracy: 23.02%
+Epoch 2/25
+Loss: 2.0604, Training Accuracy: 30.64%, Test Accuracy: 31.51%
+Epoch 3/25
+Loss: 1.8013, Training Accuracy: 47.15%, Test Accuracy: 48.12%
+Epoch 4/25
+Loss: 1.5002, Training Accuracy: 51.64%, Test Accuracy: 52.97%
+Epoch 5/25
+Loss: 1.3914, Training Accuracy: 54.29%, Test Accuracy: 54.42%
+Epoch 6/25
+Loss: 1.3165, Training Accuracy: 55.18%, Test Accuracy: 55.56%
+Epoch 7/25
+Loss: 1.2842, Training Accuracy: 55.82%, Test Accuracy: 57.11%
+Epoch 8/25
+Loss: 1.2492, Training Accuracy: 56.90%, Test Accuracy: 57.43%
+Epoch 9/25
+Loss: 1.2368, Training Accuracy: 57.73%, Test Accuracy: 59.10%
+Epoch 10/25
+Loss: 1.2104, Training Accuracy: 57.73%, Test Accuracy: 58.66%
+Epoch 11/25
+Loss: 1.1934, Training Accuracy: 60.22%, Test Accuracy: 60.78%
+Epoch 12/25
+Loss: 1.1819, Training Accuracy: 59.20%, Test Accuracy: 60.47%
+Epoch 13/25
+Loss: 1.1713, Training Accuracy: 60.00%, Test Accuracy: 60.72%
+Epoch 14/25
+Loss: 1.1612, Training Accuracy: 60.53%, Test Accuracy: 61.20%
+Epoch 15/25
+Loss: 1.1510, Training Accuracy: 60.38%, Test Accuracy: 61.07%
+Epoch 16/25
+Loss: 1.1365, Training Accuracy: 61.30%, Test Accuracy: 62.47%
+Epoch 17/25
+Loss: 1.1294, Training Accuracy: 61.21%, Test Accuracy: 62.36%
+Epoch 18/25
+Loss: 1.1234, Training Accuracy: 61.73%, Test Accuracy: 62.67%
+Epoch 19/25
+Loss: 1.1157, Training Accuracy: 62.25%, Test Accuracy: 63.27%
+Epoch 20/25
+Loss: 1.1086, Training Accuracy: 61.80%, Test Accuracy: 63.08%
+Epoch 21/25
+Loss: 1.0983, Training Accuracy: 63.23%, Test Accuracy: 62.59%
+Epoch 22/25
+Loss: 1.0959, Training Accuracy: 61.88%, Test Accuracy: 62.82%
+Epoch 23/25
+Loss: 1.0907, Training Accuracy: 62.84%, Test Accuracy: 64.32%
+Epoch 24/25
+Loss: 1.0766, Training Accuracy: 62.96%, Test Accuracy: 63.57%
+Epoch 25/25
+Loss: 1.0836, Training Accuracy: 62.81%, Test Accuracy: 63.12%
+Finished Training
+| 33        | -1.084    | 0.8094    | 109.1     | 0.0009667 | 7.021     |
+
+Iteration 34, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=51, learning_rate=0.00065
+Epoch 1/25
+Loss: 2.7230, Training Accuracy: 17.47%, Test Accuracy: 17.43%
+Epoch 2/25
+Loss: 2.1605, Training Accuracy: 28.93%, Test Accuracy: 28.52%
+Epoch 3/25
+Loss: 1.8921, Training Accuracy: 38.88%, Test Accuracy: 39.68%
+Epoch 4/25
+Loss: 1.7191, Training Accuracy: 45.34%, Test Accuracy: 45.55%
+Epoch 5/25
+Loss: 1.5648, Training Accuracy: 48.23%, Test Accuracy: 49.09%
+Epoch 6/25
+Loss: 1.4843, Training Accuracy: 51.79%, Test Accuracy: 52.80%
+Epoch 7/25
+Loss: 1.4298, Training Accuracy: 52.45%, Test Accuracy: 53.02%
+Epoch 8/25
+Loss: 1.3834, Training Accuracy: 53.83%, Test Accuracy: 54.85%
+Epoch 9/25
+Loss: 1.3458, Training Accuracy: 54.69%, Test Accuracy: 55.08%
+Epoch 10/25
+Loss: 1.3204, Training Accuracy: 55.30%, Test Accuracy: 55.44%
+Epoch 11/25
+Loss: 1.2972, Training Accuracy: 55.94%, Test Accuracy: 56.59%
+Epoch 12/25
+Loss: 1.2674, Training Accuracy: 57.06%, Test Accuracy: 57.68%
+Epoch 13/25
+Loss: 1.2474, Training Accuracy: 57.03%, Test Accuracy: 57.77%
+Epoch 14/25
+Loss: 1.2377, Training Accuracy: 58.04%, Test Accuracy: 59.11%
+Epoch 15/25
+Loss: 1.2227, Training Accuracy: 58.69%, Test Accuracy: 58.92%
+Epoch 16/25
+Loss: 1.2052, Training Accuracy: 59.77%, Test Accuracy: 61.01%
+Epoch 17/25
+Loss: 1.1893, Training Accuracy: 58.99%, Test Accuracy: 59.47%
+Epoch 18/25
+Loss: 1.1871, Training Accuracy: 59.61%, Test Accuracy: 60.90%
+Epoch 19/25
+Loss: 1.1790, Training Accuracy: 59.91%, Test Accuracy: 60.79%
+Epoch 20/25
+Loss: 1.1659, Training Accuracy: 60.06%, Test Accuracy: 60.82%
+Epoch 21/25
+Loss: 1.1598, Training Accuracy: 61.03%, Test Accuracy: 61.24%
+Epoch 22/25
+Loss: 1.1491, Training Accuracy: 61.10%, Test Accuracy: 62.27%
+Epoch 23/25
+Loss: 1.1409, Training Accuracy: 60.26%, Test Accuracy: 61.36%
+Epoch 24/25
+Loss: 1.1368, Training Accuracy: 61.19%, Test Accuracy: 62.83%
+Epoch 25/25
+Loss: 1.1259, Training Accuracy: 61.74%, Test Accuracy: 62.83%
+Finished Training
+| 34        | -1.126    | 0.7531    | 51.53     | 0.0006542 | 7.99      |
+
+Iteration 35, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=53, learning_rate=0.00103
+Epoch 1/25
+Loss: 2.5176, Training Accuracy: 23.13%, Test Accuracy: 23.73%
+Epoch 2/25
+Loss: 1.9905, Training Accuracy: 41.92%, Test Accuracy: 42.83%
+Epoch 3/25
+Loss: 1.5906, Training Accuracy: 50.20%, Test Accuracy: 52.07%
+Epoch 4/25
+Loss: 1.4235, Training Accuracy: 52.86%, Test Accuracy: 53.66%
+Epoch 5/25
+Loss: 1.3647, Training Accuracy: 55.53%, Test Accuracy: 56.75%
+Epoch 6/25
+Loss: 1.3224, Training Accuracy: 55.89%, Test Accuracy: 58.08%
+Epoch 7/25
+Loss: 1.2851, Training Accuracy: 55.78%, Test Accuracy: 56.62%
+Epoch 8/25
+Loss: 1.2702, Training Accuracy: 56.41%, Test Accuracy: 57.61%
+Epoch 9/25
+Loss: 1.2460, Training Accuracy: 58.16%, Test Accuracy: 59.02%
+Epoch 10/25
+Loss: 1.2282, Training Accuracy: 58.52%, Test Accuracy: 59.51%
+Epoch 11/25
+Loss: 1.2098, Training Accuracy: 59.80%, Test Accuracy: 61.16%
+Epoch 12/25
+Loss: 1.1910, Training Accuracy: 59.75%, Test Accuracy: 60.61%
+Epoch 13/25
+Loss: 1.1812, Training Accuracy: 59.42%, Test Accuracy: 60.21%
+Epoch 14/25
+Loss: 1.1720, Training Accuracy: 60.83%, Test Accuracy: 62.00%
+Epoch 15/25
+Loss: 1.1598, Training Accuracy: 58.25%, Test Accuracy: 59.74%
+Epoch 16/25
+Loss: 1.1485, Training Accuracy: 61.07%, Test Accuracy: 62.28%
+Epoch 17/25
+Loss: 1.1441, Training Accuracy: 61.09%, Test Accuracy: 62.08%
+Epoch 18/25
+Loss: 1.1395, Training Accuracy: 60.67%, Test Accuracy: 62.16%
+Epoch 19/25
+Loss: 1.1298, Training Accuracy: 61.14%, Test Accuracy: 61.03%
+Epoch 20/25
+Loss: 1.1230, Training Accuracy: 61.82%, Test Accuracy: 62.83%
+Epoch 21/25
+Loss: 1.1140, Training Accuracy: 62.22%, Test Accuracy: 63.67%
+Epoch 22/25
+Loss: 1.1039, Training Accuracy: 61.44%, Test Accuracy: 62.24%
+Epoch 23/25
+Loss: 1.1088, Training Accuracy: 61.36%, Test Accuracy: 62.52%
+Epoch 24/25
+Loss: 1.1019, Training Accuracy: 62.55%, Test Accuracy: 63.85%
+Epoch 25/25
+Loss: 1.0913, Training Accuracy: 62.09%, Test Accuracy: 63.19%
+Finished Training
+| 35        | -1.091    | 0.4051    | 53.87     | 0.001026  | 7.844     |
+
+Iteration 36, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=105, learning_rate=0.00091
+Epoch 1/25
+Loss: 2.5667, Training Accuracy: 27.19%, Test Accuracy: 27.65%
+Epoch 2/25
+Loss: 2.0173, Training Accuracy: 34.22%, Test Accuracy: 34.18%
+Epoch 3/25
+Loss: 1.7070, Training Accuracy: 46.74%, Test Accuracy: 48.26%
+Epoch 4/25
+Loss: 1.5153, Training Accuracy: 50.59%, Test Accuracy: 51.56%
+Epoch 5/25
+Loss: 1.4181, Training Accuracy: 53.26%, Test Accuracy: 53.80%
+Epoch 6/25
+Loss: 1.3420, Training Accuracy: 54.56%, Test Accuracy: 55.74%
+Epoch 7/25
+Loss: 1.3042, Training Accuracy: 55.27%, Test Accuracy: 56.49%
+Epoch 8/25
+Loss: 1.2702, Training Accuracy: 57.66%, Test Accuracy: 58.21%
+Epoch 9/25
+Loss: 1.2364, Training Accuracy: 57.98%, Test Accuracy: 59.82%
+Epoch 10/25
+Loss: 1.2030, Training Accuracy: 58.09%, Test Accuracy: 59.44%
+Epoch 11/25
+Loss: 1.1898, Training Accuracy: 59.35%, Test Accuracy: 60.57%
+Epoch 12/25
+Loss: 1.1724, Training Accuracy: 60.14%, Test Accuracy: 61.56%
+Epoch 13/25
+Loss: 1.1575, Training Accuracy: 60.59%, Test Accuracy: 60.98%
+Epoch 14/25
+Loss: 1.1530, Training Accuracy: 59.72%, Test Accuracy: 60.83%
+Epoch 15/25
+Loss: 1.1388, Training Accuracy: 61.33%, Test Accuracy: 62.07%
+Epoch 16/25
+Loss: 1.1252, Training Accuracy: 62.07%, Test Accuracy: 62.40%
+Epoch 17/25
+Loss: 1.1221, Training Accuracy: 61.63%, Test Accuracy: 62.34%
+Epoch 18/25
+Loss: 1.1126, Training Accuracy: 61.25%, Test Accuracy: 61.83%
+Epoch 19/25
+Loss: 1.1135, Training Accuracy: 62.00%, Test Accuracy: 63.14%
+Epoch 20/25
+Loss: 1.1102, Training Accuracy: 62.05%, Test Accuracy: 62.75%
+Epoch 21/25
+Loss: 1.1021, Training Accuracy: 62.88%, Test Accuracy: 64.60%
+Epoch 22/25
+Loss: 1.0952, Training Accuracy: 63.16%, Test Accuracy: 64.15%
+Epoch 23/25
+Loss: 1.0941, Training Accuracy: 62.74%, Test Accuracy: 64.13%
+Epoch 24/25
+Loss: 1.0871, Training Accuracy: 62.65%, Test Accuracy: 64.17%
+Epoch 25/25
+Loss: 1.0787, Training Accuracy: 63.18%, Test Accuracy: 63.58%
+Finished Training
+| 36        | -1.079    | 0.4687    | 105.8     | 0.0009057 | 7.313     |
+
+Iteration 37, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=61, learning_rate=0.0012
+Epoch 1/25
+Loss: 2.6236, Training Accuracy: 29.24%, Test Accuracy: 29.84%
+Epoch 2/25
+Loss: 1.8140, Training Accuracy: 46.52%, Test Accuracy: 48.00%
+Epoch 3/25
+Loss: 1.5096, Training Accuracy: 51.87%, Test Accuracy: 53.19%
+Epoch 4/25
+Loss: 1.3925, Training Accuracy: 53.61%, Test Accuracy: 54.34%
+Epoch 5/25
+Loss: 1.3203, Training Accuracy: 55.27%, Test Accuracy: 55.87%
+Epoch 6/25
+Loss: 1.2708, Training Accuracy: 57.95%, Test Accuracy: 58.20%
+Epoch 7/25
+Loss: 1.2487, Training Accuracy: 57.88%, Test Accuracy: 57.84%
+Epoch 8/25
+Loss: 1.2267, Training Accuracy: 58.84%, Test Accuracy: 58.75%
+Epoch 9/25
+Loss: 1.2076, Training Accuracy: 59.48%, Test Accuracy: 61.30%
+Epoch 10/25
+Loss: 1.1926, Training Accuracy: 60.09%, Test Accuracy: 62.09%
+Epoch 11/25
+Loss: 1.1694, Training Accuracy: 60.46%, Test Accuracy: 61.49%
+Epoch 12/25
+Loss: 1.1636, Training Accuracy: 60.96%, Test Accuracy: 61.88%
+Epoch 13/25
+Loss: 1.1537, Training Accuracy: 61.19%, Test Accuracy: 61.62%
+Epoch 14/25
+Loss: 1.1405, Training Accuracy: 61.70%, Test Accuracy: 61.77%
+Epoch 15/25
+Loss: 1.1362, Training Accuracy: 61.85%, Test Accuracy: 62.36%
+Epoch 16/25
+Loss: 1.1269, Training Accuracy: 61.03%, Test Accuracy: 62.01%
+Epoch 17/25
+Loss: 1.1252, Training Accuracy: 61.93%, Test Accuracy: 61.86%
+Epoch 18/25
+Loss: 1.1170, Training Accuracy: 62.22%, Test Accuracy: 62.25%
+Epoch 19/25
+Loss: 1.1077, Training Accuracy: 61.65%, Test Accuracy: 62.10%
+Epoch 20/25
+Loss: 1.1022, Training Accuracy: 63.24%, Test Accuracy: 64.01%
+Epoch 21/25
+Loss: 1.0947, Training Accuracy: 62.84%, Test Accuracy: 63.21%
+Epoch 22/25
+Loss: 1.0869, Training Accuracy: 62.34%, Test Accuracy: 63.83%
+Epoch 23/25
+Loss: 1.0842, Training Accuracy: 63.03%, Test Accuracy: 64.09%
+Epoch 24/25
+Loss: 1.0809, Training Accuracy: 62.95%, Test Accuracy: 63.54%
+Epoch 25/25
+Loss: 1.0786, Training Accuracy: 63.52%, Test Accuracy: 63.52%
+Finished Training
+| 37        | -1.079    | 0.532     | 61.93     | 0.001196  | 7.777     |
+
+Iteration 38, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=53, learning_rate=0.00102
+Epoch 1/25
+Loss: 2.5921, Training Accuracy: 20.69%, Test Accuracy: 21.33%
+Epoch 2/25
+Loss: 1.9990, Training Accuracy: 36.83%, Test Accuracy: 37.20%
+Epoch 3/25
+Loss: 1.6846, Training Accuracy: 40.92%, Test Accuracy: 41.04%
+Epoch 4/25
+Loss: 1.4991, Training Accuracy: 52.09%, Test Accuracy: 51.77%
+Epoch 5/25
+Loss: 1.3882, Training Accuracy: 52.16%, Test Accuracy: 53.13%
+Epoch 6/25
+Loss: 1.3381, Training Accuracy: 55.12%, Test Accuracy: 56.25%
+Epoch 7/25
+Loss: 1.2983, Training Accuracy: 55.69%, Test Accuracy: 57.77%
+Epoch 8/25
+Loss: 1.2772, Training Accuracy: 57.82%, Test Accuracy: 59.24%
+Epoch 9/25
+Loss: 1.2520, Training Accuracy: 57.82%, Test Accuracy: 58.36%
+Epoch 10/25
+Loss: 1.2355, Training Accuracy: 57.44%, Test Accuracy: 57.68%
+Epoch 11/25
+Loss: 1.2132, Training Accuracy: 59.20%, Test Accuracy: 60.30%
+Epoch 12/25
+Loss: 1.2041, Training Accuracy: 58.57%, Test Accuracy: 59.29%
+Epoch 13/25
+Loss: 1.1770, Training Accuracy: 60.04%, Test Accuracy: 61.31%
+Epoch 14/25
+Loss: 1.1762, Training Accuracy: 59.57%, Test Accuracy: 60.80%
+Epoch 15/25
+Loss: 1.1633, Training Accuracy: 60.89%, Test Accuracy: 61.45%
+Epoch 16/25
+Loss: 1.1489, Training Accuracy: 61.17%, Test Accuracy: 61.27%
+Epoch 17/25
+Loss: 1.1395, Training Accuracy: 60.33%, Test Accuracy: 61.51%
+Epoch 18/25
+Loss: 1.1363, Training Accuracy: 61.26%, Test Accuracy: 62.17%
+Epoch 19/25
+Loss: 1.1237, Training Accuracy: 60.93%, Test Accuracy: 62.37%
+Epoch 20/25
+Loss: 1.1193, Training Accuracy: 61.82%, Test Accuracy: 62.99%
+Epoch 21/25
+Loss: 1.1058, Training Accuracy: 61.61%, Test Accuracy: 62.60%
+Epoch 22/25
+Loss: 1.1094, Training Accuracy: 61.97%, Test Accuracy: 63.29%
+Epoch 23/25
+Loss: 1.1005, Training Accuracy: 62.22%, Test Accuracy: 63.88%
+Epoch 24/25
+Loss: 1.0989, Training Accuracy: 62.36%, Test Accuracy: 63.18%
+Epoch 25/25
+Loss: 1.0820, Training Accuracy: 62.43%, Test Accuracy: 63.84%
+Finished Training
+| 38        | -1.082    | 0.764     | 53.18     | 0.001019  | 7.519     |
+
+Iteration 39, Parameters: num_layers=7, activation_fn=LeakyReLU, batch_size=94, learning_rate=0.00056
+Epoch 1/25
+Loss: 2.5940, Training Accuracy: 22.57%, Test Accuracy: 23.71%
+Epoch 2/25
+Loss: 2.0574, Training Accuracy: 32.58%, Test Accuracy: 33.77%
+Epoch 3/25
+Loss: 1.8334, Training Accuracy: 40.80%, Test Accuracy: 42.12%
+Epoch 4/25
+Loss: 1.6452, Training Accuracy: 47.37%, Test Accuracy: 47.66%
+Epoch 5/25
+Loss: 1.5258, Training Accuracy: 48.71%, Test Accuracy: 49.62%
+Epoch 6/25
+Loss: 1.4470, Training Accuracy: 51.22%, Test Accuracy: 52.92%
+Epoch 7/25
+Loss: 1.4038, Training Accuracy: 52.78%, Test Accuracy: 54.12%
+Epoch 8/25
+Loss: 1.3565, Training Accuracy: 54.79%, Test Accuracy: 55.78%
+Epoch 9/25
+Loss: 1.3257, Training Accuracy: 55.03%, Test Accuracy: 55.95%
+Epoch 10/25
+Loss: 1.2963, Training Accuracy: 55.57%, Test Accuracy: 57.17%
+Epoch 11/25
+Loss: 1.2801, Training Accuracy: 56.33%, Test Accuracy: 57.62%
+Epoch 12/25
+Loss: 1.2576, Training Accuracy: 57.58%, Test Accuracy: 57.93%
+Epoch 13/25
+Loss: 1.2339, Training Accuracy: 56.97%, Test Accuracy: 58.08%
+Epoch 14/25
+Loss: 1.2252, Training Accuracy: 58.12%, Test Accuracy: 59.40%
+Epoch 15/25
+Loss: 1.2092, Training Accuracy: 59.06%, Test Accuracy: 59.92%
+Epoch 16/25
+Loss: 1.1919, Training Accuracy: 58.96%, Test Accuracy: 60.37%
+Epoch 17/25
+Loss: 1.1824, Training Accuracy: 59.21%, Test Accuracy: 60.38%
+Epoch 18/25
+Loss: 1.1711, Training Accuracy: 60.16%, Test Accuracy: 61.75%
+Epoch 19/25
+Loss: 1.1566, Training Accuracy: 60.46%, Test Accuracy: 61.09%
+Epoch 20/25
+Loss: 1.1520, Training Accuracy: 60.95%, Test Accuracy: 61.79%
+Epoch 21/25
+Loss: 1.1404, Training Accuracy: 61.57%, Test Accuracy: 63.44%
+Epoch 22/25
+Loss: 1.1330, Training Accuracy: 61.78%, Test Accuracy: 62.47%
+Epoch 23/25
+Loss: 1.1282, Training Accuracy: 61.76%, Test Accuracy: 62.79%
+Epoch 24/25
+Loss: 1.1279, Training Accuracy: 61.94%, Test Accuracy: 62.87%
+Epoch 25/25
+Loss: 1.1207, Training Accuracy: 61.70%, Test Accuracy: 62.83%
+Finished Training
