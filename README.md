@@ -2,9 +2,9 @@
 **Members of Group 37**
 
 Yash Mirwani (4545664), 
-Ravi Snellenberg (),
+Ravi Snellenberg (5315867),
 Devin Tomur (4806190),
-Gijs Zijderveld ()
+Gijs Zijderveld (5306728)
 
 Link: https://arxiv.org/abs/1708.06500
 
